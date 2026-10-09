@@ -2,8 +2,8 @@
   "profile": "tabular-data-package",
   "name": "researched-prices",
   "title": "VPS and proxy list prices by country, 2026-10 snapshot",
-  "description": "Public list prices of VPS/VDS hosting (603 offers, 25 providers, 32 countries) and paid proxies (458 rows, 31 brands), taken from providers' own pricing pages between 2026-08-30 and 2026-09-24. RUB and EUR converted to USD at a fixed Bank of Russia snapshot dated 2026-09-24. Curated list, mostly providers relevant to Russian-speaking buyers.",
-  "version": "2026.10",
+  "description": "Public list prices of VPS/VDS hosting (603 offers, 25 providers, 32 countries) and paid proxies (455 rows, 31 brands), taken from providers' own pricing pages between 2026-08-30 and 2026-09-24. RUB and EUR converted to USD at a fixed Bank of Russia snapshot dated 2026-09-24. Curated list, mostly providers relevant to Russian-speaking buyers.",
+  "version": "2026.10.1",
   "created": "2026-10-09T00:00:00Z",
   "homepage": "https://researched.xyz/en/vps",
   "keywords": [
@@ -32,7 +32,7 @@
   ],
   "sources": [
     {
-      "title": "Providers' public pricing pages (one URL per row in source_url / official_url)"
+      "title": "Providers' public pricing pages (one URL per row in Pricing page)"
     },
     {
       "title": "Bank of Russia daily exchange rates, 2026-09-24",
@@ -44,13 +44,13 @@
       "name": "vps-plans",
       "path": "data/vps-plans.csv",
       "profile": "tabular-data-resource",
-      "title": "VPS offers by country",
-      "description": "One row per visible VPS offer and country. Count offers with card_id.",
+      "title": "VPS plans by country",
+      "description": "One row per VPS plan and country. 1,686 rows from 603 offers; the file has no offer id, so rows are not offers.",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "bytes": 587744,
-      "hash": "sha256:980113bd8b4119690d2570fbe0a69201ed4813f0eb06ec01e9c90194c911daf0",
+      "bytes": 218223,
+      "hash": "sha256:f1ad86530ef99c7ebedbc9e0e46ab651900cce3853cf41422bda5048e1bd17a4",
       "dialect": {
         "delimiter": ",",
         "header": true
@@ -58,15 +58,7 @@
       "schema": {
         "fields": [
           {
-            "name": "card_id",
-            "type": "string",
-            "description": "Offer id: provider id and the id of the first merged plan. Repeats across countries.",
-            "constraints": {
-              "required": true
-            }
-          },
-          {
-            "name": "provider",
+            "name": "Provider",
             "type": "string",
             "description": "Provider name.",
             "constraints": {
@@ -74,20 +66,15 @@
             }
           },
           {
-            "name": "plan",
+            "name": "Plan",
             "type": "string",
-            "description": "Plan name as published.",
+            "description": "Plan name as published. When identical plans were merged in one country, the first name is shown. Selectel plans named \"Shared ... (10% vCPU)\" guarantee 10% of a core.",
             "constraints": {
               "required": true
             }
           },
           {
-            "name": "plan_variants",
-            "type": "string",
-            "description": "Other plan names merged into this offer in this country, joined by \"; \"."
-          },
-          {
-            "name": "country",
+            "name": "Country",
             "type": "string",
             "description": "Hosting country (English name).",
             "constraints": {
@@ -95,39 +82,20 @@
             }
           },
           {
-            "name": "country_code",
+            "name": "City",
             "type": "string",
-            "description": "ISO 3166-1 alpha-2 code.",
-            "constraints": {
-              "required": true,
-              "pattern": "^[A-Z]{2}$"
-            }
+            "description": "Hosting city in English; several cities are joined by \"; \". Empty when the provider names only a country, a country code or a datacenter without a city."
           },
           {
-            "name": "location",
-            "type": "string",
-            "description": "City or datacenter as published, joined by \"; \". Free text: city names, airport codes, country codes; 370 rows in Russian."
-          },
-          {
-            "name": "os",
-            "type": "string",
-            "description": "OS, only when sold as a separate plan: \"Linux\", \"Linux; Windows\"."
-          },
-          {
-            "name": "vcpu",
+            "name": "vCPU",
             "type": "integer",
-            "description": "Number of vCPU.",
+            "description": "Number of vCPU as published.",
             "constraints": {
               "required": true
             }
           },
           {
-            "name": "cpu_share_pct",
-            "type": "integer",
-            "description": "Guaranteed share of one core, only for fractional-core plans (5 Selectel rows, 10). Empty = full vCPU."
-          },
-          {
-            "name": "ram_gb",
+            "name": "RAM (GB)",
             "type": "number",
             "description": "RAM in GB.",
             "constraints": {
@@ -135,7 +103,7 @@
             }
           },
           {
-            "name": "storage_gb",
+            "name": "Disk (GB)",
             "type": "number",
             "description": "Disk size in GB.",
             "constraints": {
@@ -143,7 +111,7 @@
             }
           },
           {
-            "name": "storage_type",
+            "name": "Disk type",
             "type": "string",
             "description": "Disk type. Empty when not stated.",
             "constraints": {
@@ -158,27 +126,35 @@
             }
           },
           {
-            "name": "traffic_tb",
+            "name": "Traffic (TB/month)",
             "type": "string",
-            "description": "TB per month, \"unlimited\", or empty when not stated. Text type because of \"unlimited\"."
+            "description": "TB per month as a number, \"Unlimited\", or empty when not stated. Text type because of \"Unlimited\"."
           },
           {
-            "name": "port_mbps",
+            "name": "Port (Mbps)",
             "type": "integer",
             "description": "Port speed in Mbit/s. Empty when not published."
           },
           {
-            "name": "price",
+            "name": "Price (USD/month)",
             "type": "number",
-            "description": "Price as published, in the provider currency, for price_period.",
+            "description": "Monthly price in USD, 2 decimals. RUB and EUR converted at the fixed 2026-09-24 snapshot, USD as published, Beget's daily price multiplied by 30.",
             "constraints": {
               "required": true
             }
           },
           {
-            "name": "currency",
+            "name": "Price (original)",
+            "type": "number",
+            "description": "Monthly price in the provider's currency, as published. Beget publishes a daily price; its 11 rows show 30 times that price.",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "Currency",
             "type": "string",
-            "description": "Currency of price.",
+            "description": "Currency of Price (original).",
             "constraints": {
               "required": true,
               "enum": [
@@ -189,54 +165,29 @@
             }
           },
           {
-            "name": "price_period",
-            "type": "string",
-            "description": "\"month\", or \"day\" (11 Beget rows).",
-            "constraints": {
-              "required": true,
-              "enum": [
-                "month",
-                "day"
-              ]
-            }
-          },
-          {
-            "name": "price_usd_month",
-            "type": "number",
-            "description": "Monthly USD price: daily price x 30, RUB and EUR converted at the fixed 2026-09-24 snapshot, USD as is.",
-            "constraints": {
-              "required": true
-            }
-          },
-          {
-            "name": "payment_crypto",
+            "name": "Crypto payment",
             "type": "boolean",
-            "description": "Provider lists a cryptocurrency. Empty = methods unknown (WAICORE, 1cent.host), not \"no\".",
+            "description": "Provider lists a cryptocurrency. Empty = payment methods unknown (WAICORE, 1cent.host), not \"No\".",
             "trueValues": [
-              "true"
+              "Yes"
             ],
             "falseValues": [
-              "false"
+              "No"
             ]
           },
           {
-            "name": "payment_ru_cards",
+            "name": "Russian cards (Mir/SBP)",
             "type": "boolean",
             "description": "Provider lists Mir, SBP or SberPay (a generic \"Bank card\" is not counted). Empty = unknown.",
             "trueValues": [
-              "true"
+              "Yes"
             ],
             "falseValues": [
-              "false"
+              "No"
             ]
           },
           {
-            "name": "payment_methods",
-            "type": "string",
-            "description": "Provider-level list, joined by \"; \". Not checked per plan."
-          },
-          {
-            "name": "source_url",
+            "name": "Pricing page",
             "type": "string",
             "description": "Official page recorded as the source of the price, no referral parameters. May be a provider or product-family page.",
             "format": "uri",
@@ -245,7 +196,7 @@
             }
           },
           {
-            "name": "checked_at",
+            "name": "Checked on",
             "type": "date",
             "description": "Date the price was observed (YYYY-MM-DD). Earliest date if merged plans differ.",
             "constraints": {
@@ -255,10 +206,6 @@
         ],
         "missingValues": [
           ""
-        ],
-        "primaryKey": [
-          "card_id",
-          "country"
         ]
       }
     },
@@ -267,12 +214,12 @@
       "path": "data/proxy-prices.csv",
       "profile": "tabular-data-resource",
       "title": "Proxy entry prices by country",
-      "description": "One row per catalog row and country where the provider publishes per-country prices. Unit is 1 IP, 1 port or 1 GB.",
+      "description": "One row per proxy product line and country where the provider publishes per-country prices, otherwise one row for all countries. Unit is per IP, per port or per GB.",
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "bytes": 104837,
-      "hash": "sha256:9c99c084990752b020f556203e6a409e3be41ed2620448b992957bcf95cc8125",
+      "bytes": 57571,
+      "hash": "sha256:75db3f0d178708aca882863eb9cd9e86b5e8800a6e16bf3b511056abe833988c",
       "dialect": {
         "delimiter": ",",
         "header": true
@@ -280,98 +227,81 @@
       "schema": {
         "fields": [
           {
-            "name": "provider",
+            "name": "Provider",
             "type": "string",
-            "description": "Brand name.",
+            "description": "Brand name; the product variant is in brackets, e.g. \"IPRoyal (ISP)\", \"Proxywing (DC)\". For Shared proxies the bracket is the kind of proxy: static, mobile or residential.",
             "constraints": {
               "required": true
             }
           },
           {
-            "name": "catalog_row",
+            "name": "Proxy type",
             "type": "string",
-            "description": "Row name in the site catalog with variant suffix, e.g. \"IPRoyal (ISP)\". Suffixes of shared rows are in Russian.",
+            "description": "Static, Residential, Mobile or Shared.",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "Static",
+                "Residential",
+                "Mobile",
+                "Shared"
+              ]
+            }
+          },
+          {
+            "name": "Country",
+            "type": "string",
+            "description": "English country name, or \"All countries\" when the provider has one price for every location. When the provider gives a single price tied to one country, that country is shown.",
             "constraints": {
               "required": true
             }
           },
           {
-            "name": "variant",
-            "type": "string",
-            "description": "ISP or DC (static rows); static, mobile or residential (shared rows).",
-            "constraints": {
-              "enum": [
-                "ISP",
-                "DC",
-                "static",
-                "mobile",
-                "residential"
-              ]
-            }
-          },
-          {
-            "name": "type",
-            "type": "string",
-            "description": "Catalog table of the row.",
-            "constraints": {
-              "required": true,
-              "enum": [
-                "static",
-                "residential",
-                "mobile",
-                "shared"
-              ]
-            }
-          },
-          {
-            "name": "country",
-            "type": "string",
-            "description": "ISO 3166-1 alpha-2 code when the price is tied to a country; empty for all_countries and base rows without one.",
-            "constraints": {
-              "pattern": "^[A-Z]{2}$"
-            }
-          },
-          {
-            "name": "country_name",
-            "type": "string",
-            "description": "English country name."
-          },
-          {
-            "name": "price_scope",
-            "type": "string",
-            "description": "country = exact price published for this country; reference_country = the single published price is for this country; all_countries = one price for all; base = no usable price.",
-            "constraints": {
-              "required": true,
-              "enum": [
-                "country",
-                "reference_country",
-                "all_countries",
-                "base"
-              ]
-            }
-          },
-          {
-            "name": "price_from",
+            "name": "Price from",
             "type": "number",
-            "description": "Entry price in the provider currency. Empty when none is published."
+            "description": "Entry price in the provider's currency, as published.",
+            "constraints": {
+              "required": true
+            }
           },
           {
-            "name": "unit",
+            "name": "Unit",
             "type": "string",
-            "description": "What price_from buys: 1 IP, 1 port or 1 GB. Do not compare across units.",
+            "description": "What the price buys. Do not compare across units.",
             "constraints": {
               "required": true,
               "enum": [
-                "ip",
-                "port",
-                "gb"
+                "per IP",
+                "per port",
+                "per GB"
               ]
             }
           },
           {
-            "name": "currency",
+            "name": "Period (days)",
+            "type": "integer",
+            "description": "Billing period: 30 for per-IP and per-port prices; mostly empty for per-GB prices."
+          },
+          {
+            "name": "Min. quantity",
+            "type": "integer",
+            "description": "Minimum quantity for this per-piece price (1 = none), e.g. 100 IPs.",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "Price (USD)",
+            "type": "number",
+            "description": "Price from in USD, 2 decimals (RUB at the fixed 2026-09-24 snapshot).",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "Currency",
             "type": "string",
-            "description": "Currency of price_from.",
+            "description": "Currency of Price from.",
             "constraints": {
               "required": true,
               "enum": [
@@ -381,79 +311,43 @@
             }
           },
           {
-            "name": "period_days",
-            "type": "integer",
-            "description": "Billing period: 30 for per-IP and per-port prices; mostly empty for per-GB prices."
-          },
-          {
-            "name": "min_qty",
-            "type": "integer",
-            "description": "Minimum quantity for this per-piece price (1 = none), e.g. 100 IPs.",
+            "name": "Free trial",
+            "type": "string",
+            "description": "\"No\"; \"Yes (...)\" free trial with its size; \"On request (...)\" free trial on request; \"Paid test (...)\" paid trial with its price; \"Free proxy list only\" = the provider publishes a free proxy list, not a trial of the paid product.",
             "constraints": {
               "required": true
             }
           },
           {
-            "name": "price_usd",
-            "type": "number",
-            "description": "price_from in USD (RUB at the fixed 2026-09-24 snapshot). Empty when price_from is empty."
-          },
-          {
-            "name": "price_status",
-            "type": "string",
-            "description": "verified = observed on the provider site; manual_review = a price exists but waits for re-check, not given; unavailable = no public price.",
-            "constraints": {
-              "required": true,
-              "enum": [
-                "verified",
-                "manual_review",
-                "unavailable"
-              ]
-            }
-          },
-          {
-            "name": "trial",
-            "type": "string",
-            "description": "Trial terms as recorded in the catalog (English); \"No\" if none."
-          },
-          {
-            "name": "payment_crypto",
+            "name": "Crypto payment",
             "type": "boolean",
             "description": "A cryptocurrency or crypto processor is listed.",
             "trueValues": [
-              "true"
+              "Yes"
             ],
             "falseValues": [
-              "false"
+              "No"
             ],
             "constraints": {
               "required": true
             }
           },
           {
-            "name": "payment_ru_cards",
+            "name": "Russian cards (Mir/SBP)",
             "type": "boolean",
             "description": "Mir, SBP or SberPay is listed.",
             "trueValues": [
-              "true"
+              "Yes"
             ],
             "falseValues": [
-              "false"
+              "No"
             ],
             "constraints": {
               "required": true
             }
           },
           {
-            "name": "payment_methods",
-            "type": "string",
-            "description": "Provider-level list, joined by \"; \". Not checked per row.",
-            "constraints": {
-              "required": true
-            }
-          },
-          {
-            "name": "official_url",
+            "name": "Pricing page",
             "type": "string",
             "description": "Official provider page the price was taken from, no referral parameters.",
             "format": "uri",
@@ -462,18 +356,21 @@
             }
           },
           {
-            "name": "checked_at",
+            "name": "Checked on",
             "type": "date",
-            "description": "Date the price was observed (YYYY-MM-DD). Empty for 2 rows without a usable price."
+            "description": "Date the price was observed (YYYY-MM-DD).",
+            "constraints": {
+              "required": true
+            }
           }
         ],
         "missingValues": [
           ""
         ],
         "primaryKey": [
-          "type",
-          "catalog_row",
-          "country"
+          "Provider",
+          "Proxy type",
+          "Country"
         ]
       }
     }

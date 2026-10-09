@@ -9,6 +9,10 @@
  *  - data/proxy-prices.csv is the script's output with the columns `promo_code` and
  *    `promo_discount_text` removed. Those columns are not part of this dataset.
  *  - The script also writes a stats.json, which is not published here.
+ *  - v2026.10.1: the published CSVs are a clean-up of this output, not the output itself. Columns were renamed
+ *    and reordered, internal ids and helper columns dropped, locations translated to English city names,
+ *    true/false turned into Yes/No, proxy rows without a price dropped, and non-matching source URLs replaced.
+ *    The column lists below describe the raw output.
  */
 /**
  * Outreach data study (2026-10): price statistics from the researched.xyz runtime catalog.

@@ -4,13 +4,13 @@ type: dataset
 title: "VPS and proxy list prices by country, 2026-10 snapshot"
 abstract: >-
   Public list prices of VPS/VDS hosting (603 offers, 25 providers, 32 countries) and
-  paid proxies (458 rows, 31 brands), taken from providers' own pricing pages between
+  paid proxies (455 rows, 31 brands), taken from providers' own pricing pages between
   2026-08-30 and 2026-09-24. RUB and EUR converted to USD at a fixed Bank of Russia
   snapshot dated 2026-09-24.
 authors:
   - name: "researched.xyz"
     website: "https://researched.xyz"
-version: v2026.10
+version: v2026.10.1
 date-released: 2026-10-09
 license: CC-BY-4.0
 url: "https://researched.xyz/en/vps"
