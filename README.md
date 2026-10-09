@@ -9,6 +9,8 @@ The always-current version lives at [researched.xyz/en/vps](https://researched.x
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23266602.svg)](https://doi.org/10.5281/zenodo.23266602)
 
+**Mirrors:** [Kaggle](https://www.kaggle.com/datasets/researchedxyz/vps-and-proxy-list-prices-2026) · [Hugging Face](https://huggingface.co/datasets/researchedxyz/vps-and-proxy-list-prices-2026) · [Zenodo](https://doi.org/10.5281/zenodo.23266602). Related: [proxy and antidetect promo codes](https://huggingface.co/datasets/researchedxyz/proxy-and-antidetect-promo-codes-2026).
+
 This is a curated list, not the whole market. Providers were selected mostly for relevance to Russian-speaking buyers. Hetzner, DigitalOcean, Contabo and RackNerd are not included (see [Caveats](#caveats)).
 
 ## Headline numbers
@@ -37,7 +39,6 @@ The VPS figures below count the 603 offers of the source list (the site's `/vps`
 | Column types for validation or loading | [`datapackage.json`](datapackage.json) (Frictionless Data Package) |
 | How the files were generated | [`scripts/compute-stats.ts`](scripts/compute-stats.ts) (its output was reshaped into the current columns in v2026.10.1) |
 | Citation metadata | [`CITATION.cff`](CITATION.cff), [`.zenodo.json`](.zenodo.json) |
-| Kaggle upload metadata | [`kaggle/`](kaggle/) |
 
 ```python
 import pandas as pd
