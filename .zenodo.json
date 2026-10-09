@@ -1,0 +1,11 @@
+{
+  "title": "VPS and proxy list prices by country, 2026-10 snapshot",
+  "upload_type": "dataset",
+  "description": "<p>Public list prices of VPS/VDS hosting (603 offers, 25 providers, 32 countries) and paid proxies (458 rows, 31 brands), taken from providers' own pricing pages between 2026-08-30 and 2026-09-24. Two CSV files with a source URL and an observation date on every row. RUB and EUR are converted to USD at a fixed Bank of Russia snapshot dated 2026-09-24.</p><p>Curated list, mostly providers relevant to Russian-speaking buyers; not the whole market. List prices only. The always-current version is at https://researched.xyz/en/vps.</p>",
+  "creators": [{ "name": "researched.xyz" }],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "v2026.10",
+  "keywords": ["vps", "hosting", "proxy", "pricing data", "price index", "open data"]
+}

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "VPS and proxy list prices by country, 2026-10 snapshot"
+abstract: >-
+  Public list prices of VPS/VDS hosting (603 offers, 25 providers, 32 countries) and
+  paid proxies (458 rows, 31 brands), taken from providers' own pricing pages between
+  2026-08-30 and 2026-09-24. RUB and EUR converted to USD at a fixed Bank of Russia
+  snapshot dated 2026-09-24.
+authors:
+  - name: "researched.xyz"
+    website: "https://researched.xyz"
+version: v2026.10
+date-released: 2026-10-09
+license: CC-BY-4.0
+url: "https://researched.xyz/en/vps"
+repository: "https://github.com/Simpix/researched-prices"
+keywords:
+  - vps
+  - hosting
+  - proxy
+  - pricing data
+  - price index
+  - open data
+# After the first Zenodo release, add:  doi: 10.5281/zenodo.XXXXXXX
