@@ -7,7 +7,7 @@ Open dataset of public list prices for VPS/VDS hosting and paid proxies: 603 VPS
 The always-current version lives at [researched.xyz/en/vps](https://researched.xyz/en/vps) and the proxy pages on the same site ([static](https://researched.xyz/en/proxy-static), [residential](https://researched.xyz/en/proxy-residential), [mobile](https://researched.xyz/en/proxy-mobile), [shared](https://researched.xyz/en/proxy-shared)). This repository is the downloadable, citable, dated snapshot of the same data (release `v2026.10.1`: the prices are those of `v2026.10`; columns, locations and a few source links were cleaned, see [CHANGELOG.md](CHANGELOG.md)).
 
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-<!-- TODO after the first Zenodo release: add the DOI badge here and `doi:` to CITATION.cff -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23266602.svg)](https://doi.org/10.5281/zenodo.23266602)
 
 This is a curated list, not the whole market. Providers were selected mostly for relevance to Russian-speaking buyers. Hetzner, DigitalOcean, Contabo and RackNerd are not included (see [Caveats](#caveats)).
 
