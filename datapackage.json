@@ -49,8 +49,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "bytes": 218223,
-      "hash": "sha256:f1ad86530ef99c7ebedbc9e0e46ab651900cce3853cf41422bda5048e1bd17a4",
+      "bytes": 219244,
+      "hash": "sha256:397f1795a209db7e4392aaa749034724302285e987413deca66d8939525934a3",
       "dialect": {
         "delimiter": ",",
         "header": true

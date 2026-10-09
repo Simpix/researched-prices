@@ -11,7 +11,7 @@ netcup,VPS piko G11s,Germany,Nuremberg,1,1,30,SSD,,,2.11,1.84,EUR,No,No,https://
 1cent.host,PL-PROMO,Poland,,1,1,10,NVMe,,1000,2.13,180,RUB,,,https://1cent.host/,2026-08-30
 Firstbyte,MSK-KVM-SSD VL3,Russia,Moscow,1,1,20,SSD,5,200,2.24,189,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd/,2026-08-30
 Selectel,VDS 1-1-10,Russia,Moscow; Saint Petersburg,1,1,10,NVMe,3,3000,2.37,200,RUB,No,Yes,https://selectel.ru/services/cloud/vps-vds/,2026-09-22
-Vultr,Cloud Compute 1C-512M,USA,New Jersey; Atlanta,1,0.5,10,SSD,0.5,,2.50,2.5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 1C-512M,United States,New Jersey; Atlanta,1,0.5,10,SSD,0.5,,2.50,2.5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 HOSTKEY,vm.pico,Finland,,1,1,40,SSD,3,1000,2.82,2.46,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.pico,France,,1,1,40,SSD,3,1000,2.82,2.46,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.pico,Italy,,1,1,40,SSD,3,1000,2.82,2.46,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -33,16 +33,16 @@ Firstbyte,KVM-SSD-START-TK,Japan,Tokyo,1,0.75,5,SSD,3,100,3.07,259,RUB,Yes,Yes,h
 Firstbyte,EU-KVM-SSD-START-AMS1,Netherlands,Amsterdam,1,0.75,5,SSD,3,100,3.07,259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/netherlands/,2026-08-30
 Firstbyte,KVM-SSD-START-SG,Singapore,Singapore,1,0.75,5,SSD,3,100,3.07,259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-asia/,2026-08-30
 Firstbyte,EU-KVM-SSD-START-MAD1,Spain,Madrid,1,0.75,5,SSD,3,100,3.07,259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/spain/,2026-08-30
-Firstbyte,KVM-SSD-START-DB,UAE,Dubai,1,0.75,5,SSD,3,100,3.07,259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
-Firstbyte,US-KVM-START1,USA,New York,1,0.75,5,SSD,3,100,3.07,259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
+Firstbyte,KVM-SSD-START-DB,United Arab Emirates,Dubai,1,0.75,5,SSD,3,100,3.07,259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
+Firstbyte,US-KVM-START1,United States,New York,1,0.75,5,SSD,3,100,3.07,259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
 Selectel,Shared 1C-0.5G (10% vCPU),Russia,Moscow; Saint Petersburg,1,0.5,10,Network SSD,3,3000,3.32,280.45,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Cherry Servers,Cloud VPS 1 (Gen 2),Germany,Frankfurt,1,1,20,SSD,1,1000,3.44,3,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-1-1gb-20s-shared?region=de-frankfurt&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 1 (Gen 2),Lithuania,Siauliai,1,1,20,SSD,1,1000,3.44,3,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-1-1gb-20s-shared?region=lt-siauliai&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 1 (Gen 2),Netherlands,Amsterdam,1,1,20,SSD,1,1000,3.44,3,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-1-1gb-20s-shared?region=nl-amsterdam&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 1 (Gen 2),Singapore,Singapore,1,1,20,SSD,1,1000,3.44,3,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-1-1gb-20s-shared?region=sg-singapore&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 1 (Gen 2),Sweden,Stockholm,1,1,20,SSD,1,1000,3.44,3,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-1-1gb-20s-shared?region=se-stockholm&billing=3&currency=EUR,2026-08-30
-Cherry Servers,Cloud VPS 1 (Gen 2),USA,Chicago,1,1,20,SSD,1,1000,3.44,3,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-1-1gb-20s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
-Vultr,Cloud Compute 1C-512M,USA,New Jersey,1,0.5,10,SSD,0.5,,3.50,3.5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Cherry Servers,Cloud VPS 1 (Gen 2),United States,Chicago,1,1,20,SSD,1,1000,3.44,3,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-1-1gb-20s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
+Vultr,Cloud Compute 1C-512M,United States,New Jersey,1,0.5,10,SSD,0.5,,3.50,3.5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 HOSTKEY,vm.nano,Finland,,2,2,60,SSD,3,1000,3.53,3.08,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.nano,France,,2,2,60,SSD,3,1000,3.53,3.08,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.nano,Italy,,2,2,60,SSD,3,1000,3.53,3.08,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -61,7 +61,7 @@ FirstVDS,Progrev (NVMe),Russia,,1,1,15,,Unlimited,100,4.02,339,RUB,No,Yes,https:
 Firstbyte,MSK-KVM-SSD-2 VL2,Russia,Moscow,3,1,40,SSD,5,200,4.14,349,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd/,2026-08-30
 Firstbyte,MSK-highmem-KVM-SSD-11,Russia,Moscow,2,2,25,SSD,4,200,4.14,349,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd/,2026-08-30
 Firstbyte,MSK-highmem-KVM-SSD-11,Russia,Moscow,2,2,25,SSD,Unlimited,,4.14,349,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/windows/,2026-08-30
-DataCheap,VPS Promo NVMe,Czech Republic,,1,1,15,NVMe,,,4.15,350,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
+DataCheap,VPS Promo NVMe,Czechia,,1,1,15,NVMe,,,4.15,350,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 DataCheap,VPS Promo NVMe,Netherlands,,1,1,15,NVMe,,,4.15,350,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 DataCheap,VPS Promo NVMe,Russia,Moscow,1,1,10,NVMe,5,10000,4.15,350,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 Cloud4box,Large disk (Ceph),Russia,Moscow,1,1,80,HDD,Unlimited,200,4.36,368,RUB,No,Yes,https://cloud4box.com/vps/,2026-08-30
@@ -101,7 +101,7 @@ Vultr,Cloud Compute 1C-1G,South Africa,Johannesburg,1,1,25,SSD,1,,5.00,5,USD,No,
 Vultr,Cloud Compute 1C-1G,South Korea,Seoul,1,1,25,SSD,1,,5.00,5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 1C-1G,Spain,Madrid,1,1,25,SSD,1,,5.00,5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 1C-1G,Sweden,Stockholm,1,1,25,SSD,1,,5.00,5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,Cloud Compute 1C-1G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,1,25,SSD,1,,5.00,5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 1C-1G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,1,25,SSD,1,,5.00,5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 1C-1G,United Kingdom,London; Manchester,1,1,25,SSD,1,,5.00,5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Firstbyte,EU-KVM-SSD-1-SOF1,Bulgaria,Sofia,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/bulgaria/,2026-08-30
 Firstbyte,EU-KVM-SSD-1-FIN1,Finland,Helsinki,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/finland/,2026-08-30
@@ -111,8 +111,8 @@ Firstbyte,KVM-SSD-1-TK1,Japan,Tokyo,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https:
 Firstbyte,EU-KVM-SSD-1-AMS1,Netherlands,Amsterdam,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/netherlands/,2026-08-30
 Firstbyte,KVM-SSD-1-SG1,Singapore,Singapore,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-asia/,2026-08-30
 Firstbyte,EU-KVM-SSD-1-MAD1,Spain,Madrid,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/spain/,2026-08-30
-Firstbyte,KVM-SSD-1-DB1,UAE,Dubai,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
-Firstbyte,US-KVM-SSD-11,USA,New York,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
+Firstbyte,KVM-SSD-1-DB1,United Arab Emirates,Dubai,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
+Firstbyte,US-KVM-SSD-11,United States,New York,1,1,10,SSD,4,200,5.08,429,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
 Firstbyte,MSK-highmem-KVM-SAS-2,Russia,Moscow,2,4,60,SAS+SSD,Unlimited,,5.20,439,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
 HOSTKEY,vm.v2-pico,Finland,,1,1,40,NVMe,3,1000,5.24,4.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-pico,Italy,,1,1,40,NVMe,3,1000,5.24,4.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -120,7 +120,7 @@ HOSTKEY,vm.v2-pico,Netherlands,,1,1,40,NVMe,3,1000,5.24,4.57,EUR,Yes,No,https://
 HOSTKEY,vm.v2-pico,Poland,,1,1,40,NVMe,3,1000,5.24,4.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-pico,Switzerland,,1,1,40,NVMe,3,1000,5.24,4.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-pico,Turkey,,1,1,40,NVMe,3,1000,5.24,4.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v2-pico,USA,,1,1,40,NVMe,3,1000,5.24,4.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.v2-pico,United States,,1,1,40,NVMe,3,1000,5.24,4.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 1cent.host,FI-1,Finland,,1,2,20,NVMe,,1000,5.26,444,RUB,,,https://1cent.host/,2026-08-30
 OVHcloud NL,VPS-1,Netherlands,,2,4,40,NVMe,Unlimited,500,5.28,4.61,EUR,No,No,https://www.ovhcloud.com/nl/vps/,2026-08-30
 Cloud4box,Performance,Russia,Moscow,1,1,20,NVMe,Unlimited,200,5.33,450,RUB,No,Yes,https://cloud4box.com/vps/,2026-08-30
@@ -132,8 +132,8 @@ netcup,VPS Lite 1 G12s,Netherlands,Amsterdam,2,4,80,SSD,,,5.59,4.88,EUR,No,No,ht
 Zomro,Cheap Blitz,Netherlands,,1,3.5,20,,1,,5.67,4.95,EUR,Yes,Yes,https://zomro.com/cheap-vps,2026-08-30
 REG.RU,SSD-VPS-1,Russia,,1,0.5,10,,,,5.69,480,RUB,No,Yes,https://img.reg.ru/faq/prilozhenie_tarify_na_uslugi_vps_010126.pdf,2026-08-30
 HostingVDS,Hi-CPU-2G,Russia,Moscow,1,2,20,NVMe,2,10000,5.73,5,EUR,Yes,Yes,https://my.hosting-vds.com/order/performance-vds-amd-epyc/34,2026-08-30
-HostingVDS,HVDS-2G-USA,USA,New York,1,2,20,NVMe,2,1000,5.73,5,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
-SmartApe,NVMe X1 · 10 GB,Czech Republic,,2,1,10,NVMe,Unlimited,200,5.87,495,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+HostingVDS,HVDS-2G-USA,United States,New York,1,2,20,NVMe,2,1000,5.73,5,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
+SmartApe,NVMe X1 · 10 GB,Czechia,,2,1,10,NVMe,Unlimited,200,5.87,495,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X1 · 10 GB,Israel,,2,1,10,NVMe,Unlimited,200,5.87,495,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X1 · 10 GB,Russia,Moscow,2,1,10,NVMe,Unlimited,200,5.87,495,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 HOSTKEY,vm.mini,Finland,,4,6,120,SSD,3,1000,5.89,5.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -197,9 +197,9 @@ Vultr,High Performance Intel 1C-1G,Spain,Madrid,1,1,25,,2,,6.00,6,USD,No,No,http
 Vultr,High Frequency 1C-1G,Sweden,Stockholm,1,1,32,,1,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 1C-1G,Sweden,Stockholm,1,1,25,,2,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 1C-1G,Sweden,Stockholm,1,1,25,,2,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 1C-1G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,1,32,,1,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance AMD 1C-1G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,1,25,,2,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance Intel 1C-1G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,1,1,25,,2,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 1C-1G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,1,32,,1,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance AMD 1C-1G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,1,25,,2,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance Intel 1C-1G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,1,1,25,,2,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 1C-1G,United Kingdom,London; Manchester,1,1,32,,1,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 1C-1G,United Kingdom,London; Manchester,1,1,25,,2,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 1C-1G,United Kingdom,London; Manchester,1,1,25,,2,,6.00,6,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -213,15 +213,15 @@ HOSTKEY,vm.v2-nano,Netherlands,,2,4,60,NVMe,3,1000,6.22,5.43,EUR,Yes,No,https://
 HOSTKEY,vm.v2-nano,Poland,,2,4,60,NVMe,3,1000,6.22,5.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-nano,Switzerland,,2,4,60,NVMe,3,1000,6.22,5.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-nano,Turkey,,2,4,60,NVMe,3,1000,6.22,5.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v2-nano,USA,,2,4,60,NVMe,3,1000,6.22,5.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-DataCheap,VPS Start NVMe,Czech Republic,,1,1,15,NVMe,,,6.52,550,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
+HOSTKEY,vm.v2-nano,United States,,2,4,60,NVMe,3,1000,6.22,5.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+DataCheap,VPS Start NVMe,Czechia,,1,1,15,NVMe,,,6.52,550,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 DataCheap,VPS Start NVMe,Netherlands,,1,1,15,NVMe,,,6.52,550,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 Cloud4box,Optimal,France,Paris,1,1,20,SSD,Unlimited,100,6.75,570,RUB,No,Yes,https://cloud4box.com/vps/,2026-08-30
 netcup,VPS 500 G12,Austria,Vienna,2,4,128,NVMe,Unlimited,2500,6.77,5.91,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 500 G12,Germany,Nuremberg,2,4,128,NVMe,Unlimited,2500,6.77,5.91,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 500 G12,Netherlands,Amsterdam,2,4,128,NVMe,Unlimited,2500,6.77,5.91,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 500 G12,Singapore,Singapore,2,4,128,NVMe,Unlimited,2500,6.77,5.91,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
-netcup,VPS 500 G12,USA,Manassas,2,4,128,NVMe,Unlimited,2500,6.77,5.91,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
+netcup,VPS 500 G12,United States,Manassas,2,4,128,NVMe,Unlimited,2500,6.77,5.91,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 Aeza,VIEs-1,Austria,Vienna,1,2,30,,Unlimited,1000,6.80,5.93,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
 Aeza,HELs-1,Finland,Helsinki,1,2,30,,Unlimited,1000,6.80,5.93,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
 Aeza,PARs-1,France,Paris,1,2,30,,Unlimited,1000,6.80,5.93,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
@@ -232,13 +232,13 @@ Cherry Servers,Cloud VPS 2 (Gen 2),Lithuania,Siauliai,2,2,40,SSD,1,1000,6.88,6,E
 Cherry Servers,Cloud VPS 2 (Gen 2),Netherlands,Amsterdam,2,2,40,SSD,1,1000,6.88,6,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-2-2gb-40s-shared?region=nl-amsterdam&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 2 (Gen 2),Singapore,Singapore,2,2,40,SSD,1,1000,6.88,6,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-2-2gb-40s-shared?region=sg-singapore&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 2 (Gen 2),Sweden,Stockholm,2,2,40,SSD,1,1000,6.88,6,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-2-2gb-40s-shared?region=se-stockholm&billing=3&currency=EUR,2026-08-30
-Cherry Servers,Cloud VPS 2 (Gen 2),USA,Chicago,2,2,40,SSD,1,1000,6.88,6,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-2-2gb-40s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
+Cherry Servers,Cloud VPS 2 (Gen 2),United States,Chicago,2,2,40,SSD,1,1000,6.88,6,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-2-2gb-40s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
 DoubleServers,VPS entry,Germany,,1,2,20,NVMe,,,6.88,6,EUR,Yes,Yes,https://doubleservers.com/,2026-08-30
 1cent.host,EE-1,Estonia,,1,2,20,NVMe,,10000,6.99,590,RUB,,,https://1cent.host/,2026-08-30
 1cent.host,DE-1,Germany,,1,2,20,NVMe,,10000,6.99,590,RUB,,,https://1cent.host/,2026-08-30
 1cent.host,NL-1,Netherlands,,1,2,20,NVMe,,10000,6.99,590,RUB,,,https://1cent.host/,2026-08-30
 1cent.host,SE-1,Sweden,,1,2,20,NVMe,,10000,6.99,590,RUB,,,https://1cent.host/,2026-08-30
-SmartApe,NVMe X1 · 20 GB,Czech Republic,,2,1,20,NVMe,Unlimited,200,7.05,595,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X1 · 20 GB,Czechia,,2,1,20,NVMe,Unlimited,200,7.05,595,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X1 · 20 GB,Israel,,2,1,20,NVMe,Unlimited,200,7.05,595,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X1 · 20 GB,Russia,Moscow,2,1,20,NVMe,Unlimited,200,7.05,595,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 Firstbyte,Business MSK-KVM-SAS1,Russia,Moscow,1,1,20,SAS,3,100,7.10,599,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-business/,2026-08-30
@@ -253,7 +253,7 @@ Cloud4box,Optimal,Germany,Frankfurt,1,1,20,SSD,Unlimited,100,7.39,624,RUB,No,Yes
 Cloud4box,Optimal,Netherlands,Meppel,1,1,20,SSD,Unlimited,100,7.39,624,RUB,No,Yes,https://cloud4box.com/vps/,2026-08-30
 Cloud4box,Optimal,Poland,Warsaw,1,1,20,SSD,Unlimited,100,7.39,624,RUB,No,Yes,https://cloud4box.com/vps/,2026-08-30
 Cloud4box,Optimal,Spain,Madrid,1,1,20,SSD,Unlimited,100,7.39,624,RUB,No,Yes,https://cloud4box.com/vps/,2026-08-30
-Cloud4box,Optimal,USA,New Jersey,1,1,20,SSD,Unlimited,100,7.39,624,RUB,No,Yes,https://cloud4box.com/vps/,2026-08-30
+Cloud4box,Optimal,United States,New Jersey,1,1,20,SSD,Unlimited,100,7.39,624,RUB,No,Yes,https://cloud4box.com/vps/,2026-08-30
 Cloud4box,Optimal,United Kingdom,Coventry,1,1,20,SSD,Unlimited,100,7.39,624,RUB,No,Yes,https://cloud4box.com/vps/,2026-08-30
 Vultr,Cloud Compute 1C-1G,Brazil,Sao Paulo,1,1,25,SSD,1,,7.50,7.5,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 HOSTKEY,vm.v2-mini,Finland,,4,8,120,NVMe,3,1000,7.53,6.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -262,7 +262,7 @@ HOSTKEY,vm.v2-mini,Netherlands,,4,8,120,NVMe,3,1000,7.53,6.57,EUR,Yes,No,https:/
 HOSTKEY,vm.v2-mini,Poland,,4,8,120,NVMe,3,1000,7.53,6.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-mini,Switzerland,,4,8,120,NVMe,3,1000,7.53,6.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-mini,Turkey,,4,8,120,NVMe,3,1000,7.53,6.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v2-mini,USA,,4,8,120,NVMe,3,1000,7.53,6.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.v2-mini,United States,,4,8,120,NVMe,3,1000,7.53,6.57,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 REG.RU,SSD-VPS-2,Russia,,2,1,15,,,,7.67,647,RUB,No,Yes,https://img.reg.ru/faq/prilozhenie_tarify_na_uslugi_vps_010126.pdf,2026-08-30
 Firstbyte,MSK-KVM-SAS-5,Russia,Moscow,4,3,140,SAS+SSD,10,200,7.69,649,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
 Firstbyte,MSK-KVM-SSD-5,Russia,Moscow,4,3,70,SSD,Unlimited,,7.69,649,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/windows/,2026-08-30
@@ -283,21 +283,21 @@ Spacecore,DE U10,Germany,,1,2,45,NVMe,20,5000,7.91,6.9,EUR,Yes,Yes,https://space
 Spacecore,NL U10,Netherlands,,1,2,45,NVMe,20,5000,7.91,6.9,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 Zomro,Basic Starter,Germany,,1,2.5,15,,1,,7.97,6.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Zomro,Basic Starter,Netherlands,,1,2.5,15,,1,,7.97,6.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
-Zomro,Basic Starter,USA,,1,2.5,15,,1,,7.97,6.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
+Zomro,Basic Starter,United States,,1,2.5,15,,1,,7.97,6.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Firstbyte,Business MSK-KVM-SSD1,Russia,Moscow,1,1,20,SSD,3,100,8.28,699,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-business/,2026-08-30
-DataCheap,VPS Medium NVMe,Czech Republic,,2,2,30,NVMe,,,8.29,700,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
+DataCheap,VPS Medium NVMe,Czechia,,2,2,30,NVMe,,,8.29,700,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 DataCheap,VPS Medium NVMe,Netherlands,,2,2,30,NVMe,,,8.29,700,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 Firstbyte,MSK-highhdd-KVM-SAS-2,Russia,Moscow,1,1,240,SAS+SSD,Unlimited,,8.40,709,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
 TimeWEB,DE-15,Germany,Frankfurt,1,1,15,NVMe,,200,8.41,710,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=de,2026-08-30
 Firstbyte,MSK-KVM-SAS-6,Russia,Moscow,5,4,160,SAS+SSD,12,200,8.52,719,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
-HostingVDS,HVDS-4G-USA,USA,New York,2,4,35,NVMe,4,1000,8.70,7.59,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
+HostingVDS,HVDS-4G-USA,United States,New York,2,4,35,NVMe,4,1000,8.70,7.59,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
 Xorek,FI-R9-8,Finland,,4,8,120,NVMe,,1000,8.87,749,RUB,Yes,Yes,https://xorek.cloud/ru/vps?group=FI&price_max=2949,2026-08-30
 Xorek,DE-R9-8,Germany,,4,8,120,NVMe,,1000,8.87,749,RUB,Yes,Yes,https://xorek.cloud/ru/vps?group=DE&price_max=2949,2026-08-30
 Xorek,NL-R9-8,Netherlands,,4,8,120,NVMe,,1000,8.87,749,RUB,Yes,Yes,https://xorek.cloud/ru/vps?group=NL&price_max=2949,2026-08-30
 netcup,VPS 1000 ARM G11,Austria,Vienna,6,8,256,NVMe,Unlimited,2500,8.91,7.77,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 1000 ARM G11,Germany,Nuremberg,6,8,256,NVMe,Unlimited,2500,8.91,7.77,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 1000 ARM G11,Netherlands,Amsterdam,6,8,256,NVMe,Unlimited,2500,8.91,7.77,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
-netcup,VPS 1000 ARM G11,USA,Manassas,6,8,256,NVMe,Unlimited,2500,8.91,7.77,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
+netcup,VPS 1000 ARM G11,United States,Manassas,6,8,256,NVMe,Unlimited,2500,8.91,7.77,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 Firstbyte,EU-KVM-SSD-2-SOF,Bulgaria,Sofia,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/bulgaria/,2026-08-30
 Firstbyte,EU-KVM-SSD-2-FIN,Finland,Helsinki,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/finland/,2026-08-30
 Firstbyte,EU-KVM-SSD-2-PAR,France,Paris,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/france/,2026-08-30
@@ -306,8 +306,8 @@ Firstbyte,KVM-SSD-2-TK2,Japan,Tokyo,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https:
 Firstbyte,EU-KVM-SSD-2-AMS,Netherlands,Amsterdam,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/netherlands/,2026-08-30
 Firstbyte,KVM-SSD-2-SG2,Singapore,Singapore,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-asia/,2026-08-30
 Firstbyte,EU-KVM-SSD-2-MAD,Spain,Madrid,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/spain/,2026-08-30
-Firstbyte,KVM-SSD-2-DB2,UAE,Dubai,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
-Firstbyte,US-KVM-SSD-22,USA,New York,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
+Firstbyte,KVM-SSD-2-DB2,United Arab Emirates,Dubai,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
+Firstbyte,US-KVM-SSD-22,United States,New York,2,2,20,SSD,5,200,8.99,759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
 Vultr,High Frequency 1C-1G,Brazil,Sao Paulo,1,1,32,,1,,9.00,9,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 1C-1G,Brazil,Sao Paulo,1,1,25,,2,,9.00,9,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 1C-1G,Brazil,Sao Paulo,1,1,25,,2,,9.00,9,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -320,7 +320,7 @@ netcup,VPS Lite 2 G12s,Netherlands,Amsterdam,4,8,160,SSD,,,9.08,7.92,EUR,No,No,h
 Zomro,Premium Essential,Germany,,1,2.5,15,,1,1000,9.11,7.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Essential,Netherlands,,1,2.5,15,,1,1000,9.11,7.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Essential,Poland,,1,2.5,15,,1,1000,9.11,7.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
-Zomro,Premium Essential,USA,,1,2.5,15,,1,1000,9.11,7.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
+Zomro,Premium Essential,United States,,1,2.5,15,,1,1000,9.11,7.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 HOSTKEY,vm.v3-pico,Finland,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-pico,France,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-pico,Italy,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -328,9 +328,9 @@ HOSTKEY,vm.v3-pico,Netherlands,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hos
 HOSTKEY,vm.v3-pico,Poland,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-pico,Spain,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-pico,Switzerland,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v3-pico,USA,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.v3-pico,United States,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-pico,United Kingdom,,1,2,40,NVMe,3,1000,9.17,8,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-SmartApe,NVMe X1 · 40 GB,Czech Republic,,2,1,40,NVMe,Unlimited,200,9.42,795,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X1 · 40 GB,Czechia,,2,1,40,NVMe,Unlimited,200,9.42,795,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X1 · 40 GB,Israel,,2,1,40,NVMe,Unlimited,200,9.42,795,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X1 · 40 GB,Russia,Moscow,2,1,40,NVMe,Unlimited,200,9.42,795,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 Firstbyte,MSK-KVM-SSD-6,Russia,Moscow,5,4,80,SSD,Unlimited,,9.47,799,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/windows/,2026-08-30
@@ -349,7 +349,7 @@ Xorek,DE-R9-10,Germany,,6,10,100,NVMe,,1000,9.82,829,RUB,Yes,Yes,https://xorek.c
 Xorek,NL-R9-10,Netherlands,,6,10,100,NVMe,,1000,9.82,829,RUB,Yes,Yes,https://xorek.cloud/ru/vps?group=NL&price_max=2949,2026-08-30
 DataCheap,HI-CPU Medium NVMe,Russia,Moscow,2,2,40,NVMe,Unlimited,10000,9.95,840,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 DataCheap,VPS Advanced NVMe,Russia,Moscow,4,4,50,NVMe,Unlimited,10000,9.95,840,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
-SmartApe,NVMe X2 · 20 GB,Czech Republic,,4,2,20,NVMe,Unlimited,200,9.95,840,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X2 · 20 GB,Czechia,,4,2,20,NVMe,Unlimited,200,9.95,840,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X2 · 20 GB,Israel,,4,2,20,NVMe,Unlimited,200,9.95,840,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X2 · 20 GB,Russia,Moscow,4,2,20,NVMe,Unlimited,200,9.95,840,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 HostingVDS,MEMORY-8G,Russia,Moscow,2,8,45,NVMe,3,10000,9.96,8.69,EUR,Yes,Yes,https://my.hosting-vds.com/order/memory-vds-kvm-nvme/18,2026-08-30
@@ -360,7 +360,7 @@ HOSTKEY,vm.v3-nano,Netherlands,,2,4,60,NVMe,3,1000,9.98,8.71,EUR,Yes,No,https://
 HOSTKEY,vm.v3-nano,Poland,,2,4,60,NVMe,3,1000,9.98,8.71,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-nano,Spain,,2,4,60,NVMe,3,1000,9.98,8.71,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-nano,Switzerland,,2,4,60,NVMe,3,1000,9.98,8.71,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v3-nano,USA,,2,4,60,NVMe,3,1000,9.98,8.71,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.v3-nano,United States,,2,4,60,NVMe,3,1000,9.98,8.71,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-nano,United Kingdom,,2,4,60,NVMe,3,1000,9.98,8.71,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 OVHcloud NL,VPS-2,Netherlands,,4,8,75,NVMe,Unlimited,1000,10.00,8.72,EUR,No,No,https://www.ovhcloud.com/nl/vps/,2026-08-30
 Vultr,Cloud Compute 1C-2G,Australia,Sydney; Melbourne,1,2,55,SSD,2,,10.00,10,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -379,7 +379,7 @@ Vultr,Cloud Compute 1C-2G,South Africa,Johannesburg,1,2,55,SSD,2,,10.00,10,USD,N
 Vultr,Cloud Compute 1C-2G,South Korea,Seoul,1,2,55,SSD,2,,10.00,10,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 1C-2G,Spain,Madrid,1,2,55,SSD,2,,10.00,10,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 1C-2G,Sweden,Stockholm,1,2,55,SSD,2,,10.00,10,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,Cloud Compute 1C-2G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,2,55,SSD,2,,10.00,10,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 1C-2G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,2,55,SSD,2,,10.00,10,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 1C-2G,United Kingdom,London; Manchester,1,2,55,SSD,2,,10.00,10,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Firstbyte,MSK-KVM-SAS-7,Russia,Moscow,5,6,180,SAS+SSD,15,200,10.18,859,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
 Firstbyte,MSK-KVM-SSD-7,Russia,Moscow,5,6,90,SSD,Unlimited,,10.18,859,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/windows/,2026-08-30
@@ -390,7 +390,7 @@ HOSTKEY,vm.storage-1000,Netherlands,,2,4,1000,HDD,3,1000,10.20,8.9,EUR,Yes,No,ht
 HOSTKEY,vm.storage-1000,Poland,,2,4,1000,HDD,3,1000,10.20,8.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.storage-1000,Spain,,2,4,1000,HDD,3,1000,10.20,8.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.storage-1000,Switzerland,,2,4,1000,HDD,3,1000,10.20,8.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.storage-1000,USA,,2,4,1000,HDD,3,1000,10.20,8.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.storage-1000,United States,,2,4,1000,HDD,3,1000,10.20,8.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 Zomro,Cheap Kraft,Netherlands,,1,7,40,,1,,10.26,8.95,EUR,Yes,Yes,https://zomro.com/cheap-vps,2026-08-30
 HostingVDS,HVDS-6G-EU,Bulgaria,Sofia,3,6,55,NVMe,6,1000,10.31,8.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
 HostingVDS,HVDS-6G-EU,Finland,Helsinki,3,6,55,NVMe,6,1000,10.31,8.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
@@ -404,13 +404,13 @@ Cherry Servers,Cloud VPS 4 (Gen 2),Lithuania,Siauliai,4,4,80,SSD,1,1000,10.32,9,
 Cherry Servers,Cloud VPS 1,Netherlands,Amsterdam,1,1,20,SSD,5,1000,10.32,9,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-1-1gb-20s-shared?region=nl-amsterdam&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 4 (Gen 2),Netherlands,Amsterdam,4,4,80,SSD,1,1000,10.32,9,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-4-4gb-80s-shared?region=nl-amsterdam&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 1,Singapore,Singapore,1,1,20,SSD,2,1000,10.32,9,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-1-1gb-20s-shared?region=sg-singapore&billing=3&currency=EUR,2026-08-30
-Cherry Servers,Cloud VPS 1,USA,Chicago,1,1,20,SSD,5,1000,10.32,9,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-1-1gb-20s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
-Cherry Servers,Cloud VPS 4 (Gen 2),USA,Chicago,4,4,80,SSD,1,1000,10.32,9,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-4-4gb-80s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
+Cherry Servers,Cloud VPS 1,United States,Chicago,1,1,20,SSD,5,1000,10.32,9,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-1-1gb-20s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
+Cherry Servers,Cloud VPS 4 (Gen 2),United States,Chicago,4,4,80,SSD,1,1000,10.32,9,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-4-4gb-80s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
 FirstVDS,Razgon (SSD),Russia,,2,4,60,,Unlimited,100,10.89,919,RUB,No,Yes,https://firstvds.ru/docs/tariffs.html,2026-08-30
 TimeWEB,NL-15,Netherlands,Amsterdam,1,1,15,NVMe,,200,10.90,920,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nl,2026-08-30
 TimeWEB,NSK 30,Russia,Novosibirsk,1,2,30,NVMe,,100,10.90,920,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=ru-nsk,2026-08-30
 Firstbyte,MSK-highhdd-KVM-SAS-3,Russia,Moscow,1,1,330,SAS+SSD,Unlimited,,11.01,929,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
-HostingVDS,HVDS-6G-USA,USA,New York,3,6,55,NVMe,6,1000,11.46,10,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
+HostingVDS,HVDS-6G-USA,United States,New York,3,6,55,NVMe,6,1000,11.46,10,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
 HOSTKEY,vm.medium,Finland,,6,12,160,SSD,3,1000,11.62,10.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.medium,France,,6,12,160,SSD,3,1000,11.62,10.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.medium,Italy,,6,12,160,SSD,3,1000,11.62,10.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -430,7 +430,7 @@ netcup,VPS 1000 G12,Austria,Vienna,4,8,256,NVMe,Unlimited,2500,11.89,10.37,EUR,N
 netcup,VPS 1000 G12,Germany,Nuremberg,4,8,256,NVMe,Unlimited,2500,11.89,10.37,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 1000 G12,Netherlands,Amsterdam,4,8,256,NVMe,Unlimited,2500,11.89,10.37,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 1000 G12,Singapore,Singapore,4,8,256,NVMe,Unlimited,2500,11.89,10.37,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
-netcup,VPS 1000 G12,USA,Manassas,4,8,256,NVMe,Unlimited,2500,11.89,10.37,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
+netcup,VPS 1000 G12,United States,Manassas,4,8,256,NVMe,Unlimited,2500,11.89,10.37,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 TimeWEB,DE-30,Germany,Frankfurt,1,2,30,NVMe,,200,11.97,1010,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=de,2026-08-30
 Vultr,High Frequency 1C-2G,Australia,Sydney; Melbourne,1,2,64,,2,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 1C-2G,Australia,Sydney; Melbourne,1,2,50,,3,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -481,9 +481,9 @@ Vultr,High Performance Intel 1C-2G,Spain,Madrid,1,2,50,,3,,12.00,12,USD,No,No,ht
 Vultr,High Frequency 1C-2G,Sweden,Stockholm,1,2,64,,2,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 1C-2G,Sweden,Stockholm,1,2,50,,3,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 1C-2G,Sweden,Stockholm,1,2,50,,3,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 1C-2G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,2,64,,2,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance AMD 1C-2G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,2,50,,3,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance Intel 1C-2G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,1,2,50,,3,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 1C-2G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,2,64,,2,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance AMD 1C-2G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,1,2,50,,3,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance Intel 1C-2G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,1,2,50,,3,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 1C-2G,United Kingdom,London; Manchester,1,2,64,,2,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 1C-2G,United Kingdom,London; Manchester,1,2,50,,3,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 1C-2G,United Kingdom,London; Manchester,1,2,50,,3,,12.00,12,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -495,10 +495,10 @@ HostingVDS,HVDS-8G-EU,Latvia,Riga,4,8,75,NVMe,8,1000,12.25,10.69,EUR,Yes,Yes,htt
 HostingVDS,HVDS-8G-EU,Poland,Warsaw,4,8,75,NVMe,8,1000,12.25,10.69,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
 HostingVDS,HVDS-8G,Russia,Moscow,4,8,90,NVMe,8,10000,12.25,10.69,EUR,Yes,Yes,https://my.hosting-vds.com/order/standart-vds/1,2026-08-30
 HostingVDS,HVDS-8G-EU,Sweden,Stockholm,4,8,75,NVMe,8,1000,12.25,10.69,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
-SmartApe,NVMe X2 · 40 GB,Czech Republic,,4,2,40,NVMe,Unlimited,200,12.32,1040,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X2 · 40 GB,Czechia,,4,2,40,NVMe,Unlimited,200,12.32,1040,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X2 · 40 GB,Israel,,4,2,40,NVMe,Unlimited,200,12.32,1040,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X2 · 40 GB,Russia,Moscow,4,2,40,NVMe,Unlimited,200,12.32,1040,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
-DataCheap,VPS Advanced NVMe,Czech Republic,,4,4,60,NVMe,,,12.44,1050,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
+DataCheap,VPS Advanced NVMe,Czechia,,4,4,60,NVMe,,,12.44,1050,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 DataCheap,VPS Advanced NVMe,Netherlands,,4,4,60,NVMe,,,12.44,1050,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 Aeza,NAS-1,Russia,Moscow,1,1,1024,HDD,Unlimited,10000,12.61,11,EUR,Yes,Yes,https://aeza.net/ru/storage-vps,2026-08-30
 Firstbyte,MSK-highmem-KVM-SAS-4,Russia,Moscow,3,16,100,SAS+SSD,Unlimited,,12.67,1069,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
@@ -508,7 +508,7 @@ FirstVDS,Razgon (NVMe),Russia,,2,4,60,,Unlimited,100,12.67,1069,RUB,No,Yes,https
 Aeza,RX32-1,Russia,Moscow,1,2,30,,Unlimited,25000,12.88,11.24,EUR,Yes,Yes,https://aeza.net/ru/enterprise,2026-08-30
 Selectel,VDS 4-8-80,Russia,Moscow; Saint Petersburg,4,8,80,NVMe,3,3000,13.03,1100,RUB,No,Yes,https://selectel.ru/services/cloud/vps-vds/,2026-09-22
 Firstbyte,MSK-KVM-SAS-83,Russia,Moscow,7,7,200,SAS+SSD,18,200,13.14,1109,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
-TimeWEB,US-15,USA,New York,1,1,15,NVMe,,200,13.51,1140,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
+TimeWEB,US-15,United States,New York,1,1,15,NVMe,,200,13.51,1140,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
 Aeza,VIEs-2,Austria,Vienna,2,4,60,,Unlimited,1000,13.61,11.87,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
 Aeza,HELs-2,Finland,Helsinki,2,4,60,,Unlimited,1000,13.61,11.87,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
 Aeza,PARs-2,France,Paris,2,4,60,,Unlimited,1000,13.61,11.87,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
@@ -518,9 +518,9 @@ Spacecore,DE U20,Germany,,2,4,75,NVMe,20,5000,13.64,11.9,EUR,Yes,Yes,https://spa
 Spacecore,NL U20,Netherlands,,2,4,75,NVMe,20,5000,13.64,11.9,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 Zomro,Basic Optimal,Germany,,2,5,35,,2,,13.70,11.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Zomro,Basic Optimal,Netherlands,,2,5,35,,2,,13.70,11.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
-Zomro,Basic Optimal,USA,,2,5,35,,2,,13.70,11.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
+Zomro,Basic Optimal,United States,,2,5,35,,2,,13.70,11.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 HostingVDS,Hi-CPU-6G,Russia,Moscow,2,6,70,NVMe,6,10000,13.76,12,EUR,Yes,Yes,https://my.hosting-vds.com/order/performance-vds-amd-epyc/34,2026-08-30
-HostingVDS,HVDS-8G-USA,USA,New York,4,8,75,NVMe,8,1000,13.76,12,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
+HostingVDS,HVDS-8G-USA,United States,New York,4,8,75,NVMe,8,1000,13.76,12,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
 MevSpace,GP-4,Poland,,2,4,80,SSD,Unlimited,500,13.76,12,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
 HOSTKEY,vm.v3-mini,Finland,,4,8,120,NVMe,3,1000,13.92,12.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-mini,France,,4,8,120,NVMe,3,1000,13.92,12.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -529,11 +529,11 @@ HOSTKEY,vm.v3-mini,Netherlands,,4,8,120,NVMe,3,1000,13.92,12.14,EUR,Yes,No,https
 HOSTKEY,vm.v3-mini,Poland,,4,8,120,NVMe,3,1000,13.92,12.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-mini,Spain,,4,8,120,NVMe,3,1000,13.92,12.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-mini,Switzerland,,4,8,120,NVMe,3,1000,13.92,12.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v3-mini,USA,,4,8,120,NVMe,3,1000,13.92,12.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.v3-mini,United States,,4,8,120,NVMe,3,1000,13.92,12.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-mini,United Kingdom,,4,8,120,NVMe,3,1000,13.92,12.14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 Aeza,LND-1,United Kingdom,London,1,2,30,,Unlimited,1000,13.96,12.18,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
 Firstbyte,MSK-highhdd-KVM-SAS-4,Russia,Moscow,1,1,440,SAS+SSD,Unlimited,,14.09,1189,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
-SmartApe,NVMe X1 · 80 GB,Czech Republic,,2,1,80,NVMe,Unlimited,200,14.16,1195,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X1 · 80 GB,Czechia,,2,1,80,NVMe,Unlimited,200,14.16,1195,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X1 · 80 GB,Israel,,2,1,80,NVMe,Unlimited,200,14.16,1195,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X1 · 80 GB,Russia,Moscow,2,1,80,NVMe,Unlimited,200,14.16,1195,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 Macloud,Standard 3,Russia,Moscow,2,4,100,NVMe,32,1000,14.22,1200,RUB,Yes,Yes,https://macloud.ru/,2026-08-30
@@ -544,14 +544,14 @@ netcup,RS 1000 G12,Austria,Vienna,4,8,256,NVMe,Unlimited,2500,14.66,12.79,EUR,No
 netcup,RS 1000 G12,Germany,Nuremberg,4,8,256,NVMe,Unlimited,2500,14.66,12.79,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,RS 1000 G12,Netherlands,Amsterdam,4,8,256,NVMe,Unlimited,2500,14.66,12.79,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,RS 1000 G12,Singapore,Singapore,4,8,256,NVMe,Unlimited,2500,14.66,12.79,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
-netcup,RS 1000 G12,USA,Manassas,4,8,256,NVMe,Unlimited,2500,14.66,12.79,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
+netcup,RS 1000 G12,United States,Manassas,4,8,256,NVMe,Unlimited,2500,14.66,12.79,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 TimeWEB,NSK 40,Russia,Novosibirsk,2,2,40,NVMe,,100,14.69,1240,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=ru-nsk,2026-08-30
 TimeWEB,High MSK 1/1/15,Russia,Moscow,1,1,15,NVMe,,1000,14.75,1245,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
 1cent.host,PL-3,Poland,,4,8,100,NVMe,,10000,14.81,1250,RUB,,,https://1cent.host/,2026-08-30
 HostingVDS,MEMORY-12G,Russia,Moscow,3,12,70,NVMe,4,10000,14.89,12.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/memory-vds-kvm-nvme/18,2026-08-30
 Cherry Servers,Cloud VPS 6 (Gen 2),Lithuania,Siauliai,6,6,100,SSD,1,1000,14.90,13,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-6-6gb-100s-shared?region=lt-siauliai&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 6 (Gen 2),Netherlands,Amsterdam,6,6,100,SSD,1,1000,14.90,13,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-6-6gb-100s-shared?region=nl-amsterdam&billing=3&currency=EUR,2026-08-30
-Cherry Servers,Cloud VPS 6 (Gen 2),USA,Chicago,6,6,100,SSD,1,1000,14.90,13,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-6-6gb-100s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
+Cherry Servers,Cloud VPS 6 (Gen 2),United States,Chicago,6,6,100,SSD,1,1000,14.90,13,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b2-6-6gb-100s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
 Firstbyte,EU-KVM-SSD-3-SOF,Bulgaria,Sofia,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/bulgaria/,2026-08-30
 Firstbyte,EU-KVM-SSD-3-FIN,Finland,Helsinki,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/finland/,2026-08-30
 Firstbyte,EU-KVM-SSD-3-PAR,France,Paris,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/france/,2026-08-30
@@ -560,8 +560,8 @@ Firstbyte,KVM-SSD-3-TK,Japan,Tokyo,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https
 Firstbyte,EU-KVM-SSD-3-AMS,Netherlands,Amsterdam,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/netherlands/,2026-08-30
 Firstbyte,KVM-SSD-3-SG,Singapore,Singapore,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-asia/,2026-08-30
 Firstbyte,EU-KVM-SSD-3-MAD,Spain,Madrid,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/spain/,2026-08-30
-Firstbyte,KVM-SSD-3-DB,UAE,Dubai,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
-Firstbyte,US-KVM-SSD-3,USA,New York,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
+Firstbyte,KVM-SSD-3-DB,United Arab Emirates,Dubai,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
+Firstbyte,US-KVM-SSD-3,United States,New York,4,3,50,SSD,6,200,14.92,1259,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
 Vultr,Cloud Compute 2C-2G,Australia,Sydney; Melbourne,2,2,65,SSD,3,,15.00,15,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 1C-2G,Brazil,Sao Paulo,1,2,55,SSD,2,,15.00,15,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 2C-2G,Canada,Toronto,2,2,65,SSD,3,,15.00,15,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -579,13 +579,13 @@ Vultr,Cloud Compute 2C-2G,South Africa,Johannesburg,2,2,65,SSD,3,,15.00,15,USD,N
 Vultr,Cloud Compute 2C-2G,South Korea,Seoul,2,2,65,SSD,3,,15.00,15,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 2C-2G,Spain,Madrid,2,2,65,SSD,3,,15.00,15,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 2C-2G,Sweden,Stockholm,2,2,65,SSD,3,,15.00,15,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,Cloud Compute 2C-2G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,2,65,SSD,3,,15.00,15,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 2C-2G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,2,65,SSD,3,,15.00,15,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 2C-2G,United Kingdom,London; Manchester,2,2,65,SSD,3,,15.00,15,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Selectel,Standard 1C-2G-16G,Russia,Moscow; Saint Petersburg,1,2,16,NVMe,3,3000,15.05,1269.87,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 netcup,VPS 2000 ARM G11,Austria,Vienna,10,16,512,NVMe,Unlimited,2500,15.37,13.41,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 2000 ARM G11,Germany,Nuremberg,10,16,512,NVMe,Unlimited,2500,15.37,13.41,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 2000 ARM G11,Netherlands,Amsterdam,10,16,512,NVMe,Unlimited,2500,15.37,13.41,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
-netcup,VPS 2000 ARM G11,USA,Manassas,10,16,512,NVMe,Unlimited,2500,15.37,13.41,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
+netcup,VPS 2000 ARM G11,United States,Manassas,10,16,512,NVMe,Unlimited,2500,15.37,13.41,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 Firstbyte,MSK-KVM-SSD-8 VL3,Russia,Moscow,7,7,100,SSD,18,200,15.39,1299,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd/,2026-08-30
 Firstbyte,MSK-KVM-SSD-83,Russia,Moscow,7,7,100,SSD,Unlimited,,15.39,1299,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/windows/,2026-08-30
 REG.RU,SSD-VPS-3,Russia,,2,2,25,,,,15.64,1320,RUB,No,Yes,https://img.reg.ru/faq/prilozhenie_tarify_na_uslugi_vps_010126.pdf,2026-08-30
@@ -600,13 +600,13 @@ HOSTKEY,vm.storage-2000,Netherlands,,4,8,2000,HDD,3,1000,15.93,13.9,EUR,Yes,No,h
 HOSTKEY,vm.storage-2000,Poland,,4,8,2000,HDD,3,1000,15.93,13.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.storage-2000,Spain,,4,8,2000,HDD,3,1000,15.93,13.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.storage-2000,Switzerland,,4,8,2000,HDD,3,1000,15.93,13.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.storage-2000,USA,,4,8,2000,HDD,3,1000,15.93,13.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.storage-2000,United States,,4,8,2000,HDD,3,1000,15.93,13.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 Spacecore,DE H30,Germany,,6,8,60,SSD,20,5000,15.93,13.9,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 Spacecore,NL H30,Netherlands,,6,8,60,SSD,20,5000,15.93,13.9,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 Zomro,Premium Standard,Germany,,2,5,35,,2,1000,15.99,13.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Standard,Netherlands,,2,5,35,,2,1000,15.99,13.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Standard,Poland,,2,5,35,,2,1000,15.99,13.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
-Zomro,Premium Standard,USA,,2,5,35,,2,1000,15.99,13.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
+Zomro,Premium Standard,United States,,2,5,35,,2,1000,15.99,13.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Beget,High Frequency 1-2-30,Russia,Saint Petersburg,1,2,30,NVMe,,1000,16.00,1350,RUB,No,Yes,https://beget.com/ru/vps,2026-08-30
 HostingVDS,HVDS-10G-EU,Bulgaria,Sofia,5,10,85,NVMe,10,1000,16.04,13.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
 HostingVDS,HVDS-10G-EU,Finland,Helsinki,5,10,85,NVMe,10,1000,16.04,13.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
@@ -615,24 +615,24 @@ HostingVDS,HVDS-10G-EU,Latvia,Riga,5,10,85,NVMe,10,1000,16.04,13.99,EUR,Yes,Yes,
 HostingVDS,HVDS-10G-EU,Poland,Warsaw,5,10,85,NVMe,10,1000,16.04,13.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
 HostingVDS,HVDS-10G,Russia,Moscow,5,10,100,NVMe,10,10000,16.04,13.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/standart-vds/1,2026-08-30
 HostingVDS,HVDS-10G-EU,Sweden,Stockholm,5,10,85,NVMe,10,1000,16.04,13.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
-HostingVDS,HVDS-10G-USA,USA,New York,5,10,85,NVMe,10,1000,16.04,13.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
+HostingVDS,HVDS-10G-USA,United States,New York,5,10,85,NVMe,10,1000,16.04,13.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
 HOSTKEY,vm.v2-medium,Finland,,8,16,160,NVMe,3,1000,16.05,14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-medium,Italy,,8,16,160,NVMe,3,1000,16.05,14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-medium,Netherlands,,8,16,160,NVMe,3,1000,16.05,14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-medium,Poland,,8,16,160,NVMe,3,1000,16.05,14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-medium,Switzerland,,8,16,160,NVMe,3,1000,16.05,14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-medium,Turkey,,8,16,160,NVMe,3,1000,16.05,14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v2-medium,USA,,8,16,160,NVMe,3,1000,16.05,14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.v2-medium,United States,,8,16,160,NVMe,3,1000,16.05,14,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 Selectel,Shared 2C-4G (10% vCPU),Russia,Moscow; Saint Petersburg,2,4,10,Network SSD,3,3000,16.15,1362.92,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Firstbyte,MSK-KVM-SSD-9,Russia,Moscow,7,8,120,SSD,Unlimited,,16.58,1399,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/windows/,2026-08-30
 Firstbyte,MSK-KVM-SSD-9 VL,Russia,Moscow,7,8,120,SSD,20,200,16.58,1399,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd/,2026-08-30
 Xorek,FI-R9-16,Finland,,8,16,240,NVMe,,1000,16.58,1399,RUB,Yes,Yes,https://xorek.cloud/ru/vps?group=FI&price_max=2949,2026-08-30
 Xorek,DE-R9-16,Germany,,8,16,240,NVMe,,1000,16.58,1399,RUB,Yes,Yes,https://xorek.cloud/ru/vps?group=DE&price_max=2949,2026-08-30
 Xorek,NL-R9-16,Netherlands,,8,16,240,NVMe,,1000,16.58,1399,RUB,Yes,Yes,https://xorek.cloud/ru/vps?group=NL&price_max=2949,2026-08-30
-SmartApe,NVMe X4 · 40 GB,Czech Republic,,6,4,40,NVMe,Unlimited,200,16.88,1425,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X4 · 40 GB,Czechia,,6,4,40,NVMe,Unlimited,200,16.88,1425,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X4 · 40 GB,Israel,,6,4,40,NVMe,Unlimited,200,16.88,1425,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X4 · 40 GB,Russia,Moscow,6,4,40,NVMe,Unlimited,200,16.88,1425,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
-SmartApe,NVMe X2 · 80 GB,Czech Republic,,4,2,80,NVMe,Unlimited,200,17.06,1440,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X2 · 80 GB,Czechia,,4,2,80,NVMe,Unlimited,200,17.06,1440,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X2 · 80 GB,Israel,,4,2,80,NVMe,Unlimited,200,17.06,1440,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X2 · 80 GB,Russia,Moscow,4,2,80,NVMe,Unlimited,200,17.06,1440,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 WAICORE,ISP EP1 · ispmanager Lite,Germany,Frankfurt,1,2,30,,,2500,17.17,1449,RUB,,,https://waicore.com/prices?tab=ispmanager,2026-08-30
@@ -691,9 +691,9 @@ Vultr,High Performance Intel 2C-2G,Spain,Madrid,2,2,60,,4,,18.00,18,USD,No,No,ht
 Vultr,High Frequency 2C-2G,Sweden,Stockholm,2,2,80,,3,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 2C-2G,Sweden,Stockholm,2,2,60,,4,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 2C-2G,Sweden,Stockholm,2,2,60,,4,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 2C-2G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,2,80,,3,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance AMD 2C-2G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,2,60,,4,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance Intel 2C-2G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,2,2,60,,4,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 2C-2G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,2,80,,3,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance AMD 2C-2G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,2,60,,4,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance Intel 2C-2G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,2,2,60,,4,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 2C-2G,United Kingdom,London; Manchester,2,2,80,,3,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 2C-2G,United Kingdom,London; Manchester,2,2,60,,4,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 2C-2G,United Kingdom,London; Manchester,2,2,60,,4,,18.00,18,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -707,7 +707,7 @@ HOSTKEY,vm.v3-medium,Netherlands,,8,16,160,NVMe,3,1000,18.34,16,EUR,Yes,No,https
 HOSTKEY,vm.v3-medium,Poland,,8,16,160,NVMe,3,1000,18.34,16,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-medium,Spain,,8,16,160,NVMe,3,1000,18.34,16,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-medium,Switzerland,,8,16,160,NVMe,3,1000,18.34,16,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v3-medium,USA,,8,16,160,NVMe,3,1000,18.34,16,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.v3-medium,United States,,8,16,160,NVMe,3,1000,18.34,16,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-medium,United Kingdom,,8,16,160,NVMe,3,1000,18.34,16,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HostingVDS,HVDS-12G-EU,Bulgaria,Sofia,6,12,100,NVMe,12,1000,18.56,16.19,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
 HostingVDS,HVDS-12G-EU,Finland,Helsinki,6,12,100,NVMe,12,1000,18.56,16.19,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
@@ -716,7 +716,7 @@ HostingVDS,HVDS-12G-EU,Latvia,Riga,6,12,100,NVMe,12,1000,18.56,16.19,EUR,Yes,Yes
 HostingVDS,HVDS-12G-EU,Poland,Warsaw,6,12,100,NVMe,12,1000,18.56,16.19,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
 HostingVDS,HVDS-12G,Russia,Moscow,6,12,120,NVMe,10,10000,18.56,16.19,EUR,Yes,Yes,https://my.hosting-vds.com/order/standart-vds/1,2026-08-30
 HostingVDS,HVDS-12G-EU,Sweden,Stockholm,6,12,100,NVMe,12,1000,18.56,16.19,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
-HostingVDS,HVDS-12G-USA,USA,New York,6,12,100,NVMe,12,1000,18.56,16.19,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
+HostingVDS,HVDS-12G-USA,United States,New York,6,12,100,NVMe,12,1000,18.56,16.19,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
 TimeWEB,High-2,Russia,Saint Petersburg,1,2,30,NVMe,,200,18.66,1575,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=ru,2026-08-30
 FirstVDS,Otryv (SSD),Russia,,4,8,80,,Unlimited,100,18.71,1579,RUB,No,Yes,https://firstvds.ru/docs/tariffs.html,2026-08-30
 Firstbyte,Business MSK-KVM-SAS-1,Russia,Moscow,2,2,40,SAS,4,200,18.95,1599,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-business/,2026-08-30
@@ -732,7 +732,7 @@ Aeza,SWE-2,Sweden,Stockholm,2,4,60,,Unlimited,1000,19.46,16.98,EUR,Yes,Yes,https
 Aeza,LNDs-2,United Kingdom,London,2,4,60,,Unlimited,1000,19.53,17.04,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
 DataCheap,HI-CPU Advanced NVMe,Russia,Moscow,4,4,80,NVMe,Unlimited,10000,19.91,1680,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 DataCheap,VPS Professional NVMe,Russia,Moscow,8,8,90,NVMe,Unlimited,10000,19.91,1680,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
-TimeWEB,US-30,USA,New York,1,2,30,NVMe,,200,19.91,1680,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
+TimeWEB,US-30,United States,New York,1,2,30,NVMe,,200,19.91,1680,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
 Vultr,Cloud Compute 2C-4G,Australia,Sydney; Melbourne,2,4,80,SSD,3,,20.00,20,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 2C-4G,Canada,Toronto,2,4,80,SSD,3,,20.00,20,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 2C-4G,Chile,Santiago,2,4,80,SSD,3,,20.00,20,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -749,7 +749,7 @@ Vultr,Cloud Compute 2C-4G,South Africa,Johannesburg,2,4,80,SSD,3,,20.00,20,USD,N
 Vultr,Cloud Compute 2C-4G,South Korea,Seoul,2,4,80,SSD,3,,20.00,20,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 2C-4G,Spain,Madrid,2,4,80,SSD,3,,20.00,20,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 2C-4G,Sweden,Stockholm,2,4,80,SSD,3,,20.00,20,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,Cloud Compute 2C-4G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,4,80,SSD,3,,20.00,20,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 2C-4G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,4,80,SSD,3,,20.00,20,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 2C-4G,United Kingdom,London; Manchester,2,4,80,SSD,3,,20.00,20,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 TimeWEB,DE-50,Germany,Frankfurt,2,4,50,NVMe,,200,20.14,1700,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=de,2026-08-30
 HostingVDS,HVDS-14G-EU,Bulgaria,Sofia,7,14,120,NVMe,14,1000,20.63,18,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
@@ -759,7 +759,7 @@ HostingVDS,HVDS-14G-EU,Latvia,Riga,7,14,120,NVMe,14,1000,20.63,18,EUR,Yes,Yes,ht
 HostingVDS,HVDS-14G-EU,Poland,Warsaw,7,14,120,NVMe,14,1000,20.63,18,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
 HostingVDS,HVDS-14G,Russia,Moscow,7,14,150,NVMe,10,10000,20.63,18,EUR,Yes,Yes,https://my.hosting-vds.com/order/standart-vds/1,2026-08-30
 HostingVDS,HVDS-14G-EU,Sweden,Stockholm,7,14,120,NVMe,14,1000,20.63,18,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
-HostingVDS,HVDS-14G-USA,USA,New York,7,14,120,NVMe,14,1000,20.63,18,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
+HostingVDS,HVDS-14G-USA,United States,New York,7,14,120,NVMe,14,1000,20.63,18,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
 Firstbyte,EU-KVM-SSD-4-SOF,Bulgaria,Sofia,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/bulgaria/,2026-08-30
 Firstbyte,EU-KVM-SSD-4-FIN,Finland,Helsinki,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/finland/,2026-08-30
 Firstbyte,EU-KVM-SSD-4-PAR,France,Paris,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/france/,2026-08-30
@@ -768,8 +768,8 @@ Firstbyte,KVM-SSD-4-TK,Japan,Tokyo,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,http
 Firstbyte,EU-KVM-SSD-4-AMS,Netherlands,Amsterdam,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/netherlands/,2026-08-30
 Firstbyte,KVM-SSD-4-SG,Singapore,Singapore,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-asia/,2026-08-30
 Firstbyte,EU-KVM-SSD-4-MAD,Spain,Madrid,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/spain/,2026-08-30
-Firstbyte,KVM-SSD-4-DB,UAE,Dubai,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
-Firstbyte,US-KVM-SSD-4,USA,New York,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
+Firstbyte,KVM-SSD-4-DB,United Arab Emirates,Dubai,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
+Firstbyte,US-KVM-SSD-4,United States,New York,6,6,100,SSD,8,200,20.84,1759,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
 Firstbyte,MSK-highmem-KVM-SAS-5,Russia,Moscow,3,32,140,SAS+SSD,Unlimited,,20.96,1769,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
 Firstbyte,MSK-highmem-KVM-SSD-5,Russia,Moscow,3,32,70,SSD,10,200,20.96,1769,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd/,2026-08-30
 Firstbyte,MSK-highmem-KVM-SSD-5,Russia,Moscow,3,32,70,SSD,Unlimited,,20.96,1769,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/windows/,2026-08-30
@@ -777,22 +777,22 @@ TimeWEB,High MSK 1/2/30,Russia,Moscow,1,2,30,NVMe,,1000,21.27,1795,RUB,No,Yes,ht
 Firstbyte,Business MSK-KVM-SSD-1,Russia,Moscow,2,2,30,SSD,4,200,21.32,1799,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-business/,2026-08-30
 TimeWEB,NL-40,Netherlands,Amsterdam,2,2,40,NVMe,,1000,21.33,1800,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nl,2026-08-30
 FirstVDS,Otryv (NVMe),Russia,,4,8,80,,Unlimited,100,21.55,1819,RUB,No,Yes,https://firstvds.ru/docs/tariffs.html,2026-08-30
-SmartApe,NVMe X4 · 80 GB,Czech Republic,,6,4,80,NVMe,Unlimited,200,21.62,1825,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X4 · 80 GB,Czechia,,6,4,80,NVMe,Unlimited,200,21.62,1825,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X4 · 80 GB,Israel,,6,4,80,NVMe,Unlimited,200,21.62,1825,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X4 · 80 GB,Russia,Moscow,6,4,80,NVMe,Unlimited,200,21.62,1825,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 netcup,VPS 3000 ARM G11,Austria,Vienna,12,24,768,NVMe,Unlimited,2500,21.73,18.96,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 3000 ARM G11,Germany,Nuremberg,12,24,768,NVMe,Unlimited,2500,21.73,18.96,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 3000 ARM G11,Netherlands,Amsterdam,12,24,768,NVMe,Unlimited,2500,21.73,18.96,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
-netcup,VPS 3000 ARM G11,USA,Manassas,12,24,768,NVMe,Unlimited,2500,21.73,18.96,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
+netcup,VPS 3000 ARM G11,United States,Manassas,12,24,768,NVMe,Unlimited,2500,21.73,18.96,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 Cherry Servers,Cloud VPS 2,Lithuania,Siauliai,2,2,40,SSD,5,1000,21.78,19,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-2-2gb-40s-shared?region=lt-siauliai&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 2,Netherlands,Amsterdam,2,2,40,SSD,5,1000,21.78,19,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-2-2gb-40s-shared?region=nl-amsterdam&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 2,Singapore,Singapore,2,2,40,SSD,2,1000,21.78,19,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-2-2gb-40s-shared?region=sg-singapore&billing=3&currency=EUR,2026-08-30
-Cherry Servers,Cloud VPS 2,USA,Chicago,2,2,40,SSD,5,1000,21.78,19,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-2-2gb-40s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
+Cherry Servers,Cloud VPS 2,United States,Chicago,2,2,40,SSD,5,1000,21.78,19,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-2-2gb-40s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
 netcup,VPS 2000 G12,Austria,Vienna,8,16,512,NVMe,Unlimited,2500,22.07,19.25,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 2000 G12,Germany,Nuremberg,8,16,512,NVMe,Unlimited,2500,22.07,19.25,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 2000 G12,Netherlands,Amsterdam,8,16,512,NVMe,Unlimited,2500,22.07,19.25,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 2000 G12,Singapore,Singapore,8,16,512,NVMe,Unlimited,2500,22.07,19.25,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
-netcup,VPS 2000 G12,USA,Manassas,8,16,512,NVMe,Unlimited,2500,22.07,19.25,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
+netcup,VPS 2000 G12,United States,Manassas,8,16,512,NVMe,Unlimited,2500,22.07,19.25,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 1cent.host,EE-3,Estonia,,4,8,100,NVMe,,10000,22.39,1890,RUB,,,https://1cent.host/,2026-08-30
 1cent.host,DE-3,Germany,,4,8,100,NVMe,,10000,22.39,1890,RUB,,,https://1cent.host/,2026-08-30
 1cent.host,NL-3,Netherlands,,4,8,100,NVMe,,10000,22.39,1890,RUB,,,https://1cent.host/,2026-08-30
@@ -811,7 +811,7 @@ HostingVDS,HVDS-16G-EU,Poland,Warsaw,8,16,150,NVMe,16,1000,22.91,19.99,EUR,Yes,Y
 HostingVDS,HVDS-16G,Russia,Moscow,8,16,180,NVMe,12,10000,22.91,19.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/standart-vds/1,2026-08-30
 HostingVDS,MEMORY-20G,Russia,Moscow,5,20,100,NVMe,7,10000,22.91,19.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/memory-vds-kvm-nvme/18,2026-08-30
 HostingVDS,HVDS-16G-EU,Sweden,Stockholm,8,16,150,NVMe,16,1000,22.91,19.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
-HostingVDS,HVDS-16G-USA,USA,New York,8,16,150,NVMe,16,1000,22.91,19.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
+HostingVDS,HVDS-16G-USA,United States,New York,8,16,150,NVMe,16,1000,22.91,19.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-nvme-usa/70,2026-08-30
 MevSpace,GP-8,Poland,,4,8,160,SSD,Unlimited,500,22.91,19.99,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
 Aeza,NAS-2,Russia,Moscow,2,2,2048,HDD,Unlimited,10000,22.93,20,EUR,Yes,Yes,https://aeza.net/ru/storage-vps,2026-08-30
 HostingVDS,Hi-CPU-10G,Russia,Moscow,4,10,100,NVMe,10,10000,22.93,20,EUR,Yes,Yes,https://my.hosting-vds.com/order/performance-vds-amd-epyc/34,2026-08-30
@@ -865,27 +865,27 @@ Vultr,High Performance Intel 2C-4G,Spain,Madrid,2,4,100,,5,,24.00,24,USD,No,No,h
 Vultr,High Frequency 2C-4G,Sweden,Stockholm,2,4,128,,3,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 2C-4G,Sweden,Stockholm,2,4,100,,5,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 2C-4G,Sweden,Stockholm,2,4,100,,5,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 2C-4G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,4,128,,3,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance AMD 2C-4G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,4,100,,5,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance Intel 2C-4G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,2,4,100,,5,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 2C-4G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,4,128,,3,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance AMD 2C-4G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,2,4,100,,5,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance Intel 2C-4G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,2,4,100,,5,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 2C-4G,United Kingdom,London; Manchester,2,4,128,,3,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 2C-4G,United Kingdom,London; Manchester,2,4,100,,5,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 2C-4G,United Kingdom,London; Manchester,2,4,100,,5,,24.00,24,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Beget,Standard 4-6-80,Russia,Saint Petersburg,4,6,80,NVMe,,1000,24.17,2040,RUB,No,Yes,https://beget.com/ru/vps,2026-08-30
-TimeWEB,US-15-1000,USA,New York,1,1,15,NVMe,,1000,24.41,2060,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
+TimeWEB,US-15-1000,United States,New York,1,1,15,NVMe,,1000,24.41,2060,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
 netcup,RS 2000 G12,Austria,Vienna,8,16,512,NVMe,Unlimited,2500,24.57,21.43,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,RS 2000 G12,Germany,Nuremberg,8,16,512,NVMe,Unlimited,2500,24.57,21.43,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,RS 2000 G12,Netherlands,Amsterdam,8,16,512,NVMe,Unlimited,2500,24.57,21.43,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,RS 2000 G12,Singapore,Singapore,8,16,512,NVMe,Unlimited,2500,24.57,21.43,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
-netcup,RS 2000 G12,USA,Manassas,8,16,512,NVMe,Unlimited,2500,24.57,21.43,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
-DataCheap,VPS Professional NVMe,Czech Republic,,8,8,120,NVMe,,,24.88,2100,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
+netcup,RS 2000 G12,United States,Manassas,8,16,512,NVMe,Unlimited,2500,24.57,21.43,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
+DataCheap,VPS Professional NVMe,Czechia,,8,8,120,NVMe,,,24.88,2100,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 DataCheap,VPS Professional NVMe,Netherlands,,8,8,120,NVMe,,,24.88,2100,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 Zomro,Basic Nova,Germany,,4,10,70,,4,,25.16,21.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Zomro,Basic Nova,Netherlands,,4,10,70,,4,,25.16,21.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
-Zomro,Basic Nova,USA,,4,10,70,,4,,25.16,21.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
+Zomro,Basic Nova,United States,,4,10,70,,4,,25.16,21.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Aeza,RX32-2,Russia,Moscow,2,4,60,,Unlimited,25000,25.78,22.49,EUR,Yes,Yes,https://aeza.net/ru/enterprise,2026-08-30
-TimeWEB,US-40,USA,New York,2,2,40,NVMe,,1000,25.83,2180,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
-SmartApe,NVMe X2 · 160 GB,Czech Republic,,4,2,160,NVMe,Unlimited,200,26.54,2240,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+TimeWEB,US-40,United States,New York,2,2,40,NVMe,,1000,25.83,2180,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
+SmartApe,NVMe X2 · 160 GB,Czechia,,4,2,160,NVMe,Unlimited,200,26.54,2240,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X2 · 160 GB,Israel,,4,2,160,NVMe,Unlimited,200,26.54,2240,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X2 · 160 GB,Russia,Moscow,4,2,160,NVMe,Unlimited,200,26.54,2240,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 WAICORE,ISP EP2 · ispmanager Lite,Germany,Frankfurt,2,4,60,,,2500,26.65,2249,RUB,,,https://waicore.com/prices?tab=ispmanager,2026-08-30
@@ -918,19 +918,19 @@ Firstbyte,KVM-SSD-5-TK,Japan,Tokyo,8,8,200,SSD,10,200,28.43,2399,RUB,Yes,Yes,htt
 Firstbyte,EU-KVM-SSD-5-AMS,Netherlands,Amsterdam,8,8,200,SSD,10,200,28.43,2399,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/netherlands/,2026-08-30
 Firstbyte,KVM-SSD-5-SG,Singapore,Singapore,8,8,200,SSD,10,200,28.43,2399,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-asia/,2026-08-30
 Firstbyte,EU-KVM-SSD-5-MAD,Spain,Madrid,8,8,200,SSD,10,200,28.43,2399,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/spain/,2026-08-30
-Firstbyte,KVM-SSD-5-DB,UAE,Dubai,8,8,200,SSD,10,200,28.43,2399,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
-Firstbyte,US-KVM-SSD-5,USA,New York,8,8,200,SSD,10,200,28.43,2399,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
+Firstbyte,KVM-SSD-5-DB,United Arab Emirates,Dubai,8,8,200,SSD,10,200,28.43,2399,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/oae/,2026-08-30
+Firstbyte,US-KVM-SSD-5,United States,New York,8,8,200,SSD,10,200,28.43,2399,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd-us/,2026-08-30
 Beget,High Frequency 2-4-50,Russia,Saint Petersburg,2,4,50,NVMe,,1000,28.44,2400,RUB,No,Yes,https://beget.com/ru/vps,2026-08-30
 Macloud,Standard 4,Russia,Moscow,4,8,150,NVMe,32,1000,28.44,2400,RUB,Yes,Yes,https://macloud.ru/,2026-08-30
 VDSina,Standard 4,Russia,Moscow,4,8,150,NVMe,32,1000,28.44,2400,RUB,Yes,Yes,https://vdsina.ru/pricing/standard,2026-08-30
 HostingVDS,Hi-CPU-12G,Russia,Moscow,4,12,120,NVMe,10,10000,28.66,25,EUR,Yes,Yes,https://my.hosting-vds.com/order/performance-vds-amd-epyc/34,2026-08-30
-SmartApe,NVMe X8 · 80 GB,Czech Republic,,8,8,80,NVMe,Unlimited,200,28.67,2420,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X8 · 80 GB,Czechia,,8,8,80,NVMe,Unlimited,200,28.67,2420,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X8 · 80 GB,Israel,,8,8,80,NVMe,Unlimited,200,28.67,2420,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X8 · 80 GB,Russia,Moscow,8,8,80,NVMe,Unlimited,200,28.67,2420,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 netcup,VPS 4000 ARM G11,Austria,Vienna,14,32,1024,NVMe,Unlimited,2500,28.73,25.06,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 4000 ARM G11,Germany,Nuremberg,14,32,1024,NVMe,Unlimited,2500,28.73,25.06,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 4000 ARM G11,Netherlands,Amsterdam,14,32,1024,NVMe,Unlimited,2500,28.73,25.06,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
-netcup,VPS 4000 ARM G11,USA,Manassas,14,32,1024,NVMe,Unlimited,2500,28.73,25.06,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
+netcup,VPS 4000 ARM G11,United States,Manassas,14,32,1024,NVMe,Unlimited,2500,28.73,25.06,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS Lite 4 G12s,Austria,Vienna,16,32,640,SSD,,,29.48,25.72,EUR,No,No,https://www.netcup.com/en/server/vps-lite,2026-08-30
 netcup,VPS Lite 4 G12s,Germany,Nuremberg,16,32,640,SSD,,,29.48,25.72,EUR,No,No,https://www.netcup.com/en/server/vps-lite,2026-08-30
 netcup,VPS Lite 4 G12s,Netherlands,Amsterdam,16,32,640,SSD,,,29.48,25.72,EUR,No,No,https://www.netcup.com/en/server/vps-lite,2026-08-30
@@ -942,19 +942,19 @@ HOSTKEY,vm.storage-4000,Netherlands,,8,12,4000,HDD,3,1000,29.69,25.9,EUR,Yes,No,
 HOSTKEY,vm.storage-4000,Poland,,8,12,4000,HDD,3,1000,29.69,25.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.storage-4000,Spain,,8,12,4000,HDD,3,1000,29.69,25.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.storage-4000,Switzerland,,8,12,4000,HDD,3,1000,29.69,25.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.storage-4000,USA,,8,12,4000,HDD,3,1000,29.69,25.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.storage-4000,United States,,8,12,4000,HDD,3,1000,29.69,25.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 MevSpace,HC-2-8,Poland,,2,8,100,SSD,Unlimited,500,29.69,25.9,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
 TimeWEB,High MSK 2/2/40,Russia,Moscow,2,2,40,NVMe,,1000,29.74,2510,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
 Zomro,Premium Exclusive,Germany,,4,10,70,,4,1000,29.75,25.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Exclusive,Netherlands,,4,10,70,,4,1000,29.75,25.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Exclusive,Poland,,4,10,70,,4,1000,29.75,25.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
-Zomro,Premium Exclusive,USA,,4,10,70,,4,1000,29.75,25.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
+Zomro,Premium Exclusive,United States,,4,10,70,,4,1000,29.75,25.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Vultr,Cloud Compute 2C-4G,Brazil,Sao Paulo,2,4,80,SSD,3,,30.00,30,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Selectel,Standard 2C-4G-32G,Russia,Moscow; Saint Petersburg,2,4,32,NVMe,3,3000,30.09,2539.74,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 TimeWEB,NSK 80,Russia,Novosibirsk,4,8,80,NVMe,,100,30.10,2540,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=ru-nsk,2026-08-30
 Firstbyte,Business MSK-KVM-SAS-2,Russia,Moscow,3,4,60,SAS,5,200,30.79,2599,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-business/,2026-08-30
 Firstbyte,Business MSK-KVM-SSD-2,Russia,Moscow,3,4,50,SSD,5,200,30.79,2599,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-business/,2026-08-30
-SmartApe,NVMe X4 · 160 GB,Czech Republic,,6,4,160,NVMe,Unlimited,200,31.10,2625,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X4 · 160 GB,Czechia,,6,4,160,NVMe,Unlimited,200,31.10,2625,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X4 · 160 GB,Israel,,6,4,160,NVMe,Unlimited,200,31.10,2625,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X4 · 160 GB,Russia,Moscow,6,4,160,NVMe,Unlimited,200,31.10,2625,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 FirstVDS,Ulet (SSD),Russia,,8,12,120,,Unlimited,100,31.15,2629,RUB,No,Yes,https://firstvds.ru/docs/tariffs.html,2026-08-30
@@ -965,7 +965,7 @@ HOSTKEY,vm.v2-heavy,Italy,,8,32,240,NVMe,3,1000,32.10,28,EUR,Yes,No,https://host
 HOSTKEY,vm.v2-heavy,Netherlands,,8,32,240,NVMe,3,1000,32.10,28,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-heavy,Poland,,8,32,240,NVMe,3,1000,32.10,28,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v2-heavy,Turkey,,8,32,240,NVMe,3,1000,32.10,28,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v2-heavy,USA,,8,32,240,NVMe,3,1000,32.10,28,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.v2-heavy,United States,,8,32,240,NVMe,3,1000,32.10,28,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 Selectel,Shared 4C-8G (10% vCPU),Russia,Moscow; Saint Petersburg,4,8,10,Network SSD,3,3000,32.30,2725.83,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 HOSTKEY,vds.ryzen-8,Finland,,2,8,100,NVMe,3,1000,33.13,28.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-8,France,,2,8,100,NVMe,3,1000,33.13,28.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -976,12 +976,12 @@ HOSTKEY,vds.ryzen-8,Poland,,2,8,100,NVMe,3,1000,33.13,28.9,EUR,Yes,No,https://ho
 HOSTKEY,vds.ryzen-8,Spain,,2,8,100,NVMe,3,1000,33.13,28.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-8,Switzerland,,2,8,100,NVMe,3,1000,33.13,28.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-8,Turkey,,2,8,100,NVMe,3,1000,33.13,28.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vds.ryzen-8,USA,,2,8,100,NVMe,3,1000,33.13,28.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vds.ryzen-8,United States,,2,8,100,NVMe,3,1000,33.13,28.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-8,United Kingdom,,2,8,100,NVMe,3,1000,33.13,28.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 TimeWEB,Dedic High-20,Russia,Moscow,1,4,20,NVMe,,200,33.18,2800,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
 Cherry Servers,Cloud VPS 4,Lithuania,Siauliai,4,4,80,SSD,5,1000,33.24,29,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-4-4gb-80s-shared?region=lt-siauliai&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 4,Netherlands,Amsterdam,4,4,80,SSD,5,1000,33.24,29,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-4-4gb-80s-shared?region=nl-amsterdam&billing=3&currency=EUR,2026-08-30
-Cherry Servers,Cloud VPS 4,USA,Chicago,4,4,80,SSD,5,1000,33.24,29,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-4-4gb-80s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
+Cherry Servers,Cloud VPS 4,United States,Chicago,4,4,80,SSD,5,1000,33.24,29,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-4-4gb-80s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
 Spacecore,DE U40,Germany,,6,12,150,NVMe,20,5000,33.24,29,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 Spacecore,NL U40,Netherlands,,6,12,150,NVMe,20,5000,33.24,29,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 HostingVDS,HVDS-24G-EU,Bulgaria,Sofia,8,24,200,NVMe,16,1000,34.38,29.99,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
@@ -999,7 +999,7 @@ Xorek,NL-R9-32,Netherlands,,16,32,480,NVMe,,1000,34.94,2949,RUB,Yes,Yes,https://
 TimeWEB,High-4,Russia,Saint Petersburg,2,4,50,NVMe,,200,34.95,2950,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=ru,2026-08-30
 TimeWEB,DE-80,Germany,Frankfurt,4,8,80,NVMe,,200,35.07,2960,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=de,2026-08-30
 FirstVDS,Ulet (NVMe),Russia,,8,12,120,,Unlimited,100,35.42,2989,RUB,No,Yes,https://firstvds.ru/docs/tariffs.html,2026-08-30
-TimeWEB,US-50,USA,New York,2,4,50,NVMe,,1000,35.43,2990,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
+TimeWEB,US-50,United States,New York,2,4,50,NVMe,,1000,35.43,2990,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
 Firstbyte,MSK-highhdd-KVM-SAS-6,Russia,Moscow,1,1,1200,SAS+SSD,Unlimited,,35.53,2999,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
 1cent.host,FI-4,Finland,,8,16,200,NVMe,,1000,35.55,3000,RUB,,,https://1cent.host/,2026-08-30
 Selectel,VDS 8-16-160,Russia,Moscow; Saint Petersburg,8,16,160,NVMe,3,3000,35.55,3000,RUB,No,Yes,https://selectel.ru/services/cloud/vps-vds/,2026-09-22
@@ -1011,12 +1011,12 @@ TimeWEB,MSK 100,Russia,Moscow; Saint Petersburg,8,12,100,NVMe,,1000,36.73,3100,R
 netcup,VPS 6000 ARM G11,Austria,Vienna,16,48,1536,NVMe,Unlimited,2500,36.92,32.21,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 6000 ARM G11,Germany,Nuremberg,16,48,1536,NVMe,Unlimited,2500,36.92,32.21,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 6000 ARM G11,Netherlands,Amsterdam,16,48,1536,NVMe,Unlimited,2500,36.92,32.21,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
-netcup,VPS 6000 ARM G11,USA,Manassas,16,48,1536,NVMe,Unlimited,2500,36.92,32.21,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
+netcup,VPS 6000 ARM G11,United States,Manassas,16,48,1536,NVMe,Unlimited,2500,36.92,32.21,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 4000 G12,Austria,Vienna,12,32,1024,NVMe,Unlimited,2500,37.15,32.41,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 4000 G12,Germany,Nuremberg,12,32,1024,NVMe,Unlimited,2500,37.15,32.41,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 4000 G12,Netherlands,Amsterdam,12,32,1024,NVMe,Unlimited,2500,37.15,32.41,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 4000 G12,Singapore,Singapore,12,32,1024,NVMe,Unlimited,2500,37.15,32.41,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
-netcup,VPS 4000 G12,USA,Manassas,12,32,1024,NVMe,Unlimited,2500,37.15,32.41,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
+netcup,VPS 4000 G12,United States,Manassas,12,32,1024,NVMe,Unlimited,2500,37.15,32.41,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 TimeWEB,High MSK 2/4/50,Russia,Moscow,2,4,50,NVMe,,1000,37.56,3170,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
 Spacecore,DE H50,Germany,,12,16,100,SSD,20,5000,37.71,32.9,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 Spacecore,NL H50,Netherlands,,12,16,100,SSD,20,5000,37.71,32.9,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
@@ -1024,12 +1024,12 @@ Zomro,Basic Edge,Germany,,6,15,100,,6,,37.77,32.95,EUR,Yes,Yes,https://zomro.com
 Zomro,Basic Edge,Netherlands,,6,15,100,,6,,37.77,32.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Zomro,Cheap Titan,Netherlands,,4,28,160,,4,,37.77,32.95,EUR,Yes,Yes,https://zomro.com/cheap-vps,2026-08-30
 Zomro,Storage Aet,Netherlands,,2,10,500,,2,,37.77,32.95,EUR,Yes,Yes,https://zomro.com/big_vds,2026-08-30
-Zomro,Basic Edge,USA,,6,15,100,,6,,37.77,32.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
+Zomro,Basic Edge,United States,,6,15,100,,6,,37.77,32.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Firstbyte,MSK-highmem-KVM-SAS-6,Russia,Moscow,5,64,180,SAS+SSD,Unlimited,,37.90,3199,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-sas/,2026-08-30
 Firstbyte,MSK-highmem-KVM-SSD-6,Russia,Moscow,5,64,90,SSD,12,200,37.90,3199,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-ssd/,2026-08-30
 Firstbyte,MSK-highmem-KVM-SSD-6,Russia,Moscow,5,64,90,SSD,Unlimited,,37.90,3199,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/windows/,2026-08-30
 WAICORE,EP3,Germany,Frankfurt,4,8,120,,50,2500,37.92,3200,RUB,,,https://waicore.com/prices?tab=virtual,2026-08-30
-SmartApe,NVMe X8 · 160 GB,Czech Republic,,8,8,160,NVMe,Unlimited,200,38.15,3220,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X8 · 160 GB,Czechia,,8,8,160,NVMe,Unlimited,200,38.15,3220,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X8 · 160 GB,Israel,,8,8,160,NVMe,Unlimited,200,38.15,3220,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X8 · 160 GB,Russia,Moscow,8,8,160,NVMe,Unlimited,200,38.15,3220,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 Selectel,HighFreq 2C-4G-60G,Russia,Moscow; Saint Petersburg,2,4,60,NVMe,3,3000,38.26,3229.05,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
@@ -1057,7 +1057,7 @@ Vultr,Cloud Compute 4C-8G,South Africa,Johannesburg,4,8,160,SSD,4,,40.00,40,USD,
 Vultr,Cloud Compute 4C-8G,South Korea,Seoul,4,8,160,SSD,4,,40.00,40,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 4C-8G,Spain,Madrid,4,8,160,SSD,4,,40.00,40,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 4C-8G,Sweden,Stockholm,4,8,160,SSD,4,,40.00,40,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,Cloud Compute 4C-8G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,4,8,160,SSD,4,,40.00,40,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 4C-8G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,4,8,160,SSD,4,,40.00,40,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 4C-8G,United Kingdom,London; Manchester,4,8,160,SSD,4,,40.00,40,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 HostingVDS,Hi-CPU-16G,Russia,Moscow,6,16,180,NVMe,13,10000,40.12,35,EUR,Yes,Yes,https://my.hosting-vds.com/order/performance-vds-amd-epyc/34,2026-08-30
 1cent.host,EE-4,Estonia,,8,16,200,NVMe,,10000,41.35,3490,RUB,,,https://1cent.host/,2026-08-30
@@ -1071,7 +1071,7 @@ HOSTKEY,vm.v3-heavy,Netherlands,,8,32,240,NVMe,3,1000,41.76,36.43,EUR,Yes,No,htt
 HOSTKEY,vm.v3-heavy,Poland,,8,32,240,NVMe,3,1000,41.76,36.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-heavy,Spain,,8,32,240,NVMe,3,1000,41.76,36.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-heavy,Switzerland,,8,32,240,NVMe,3,1000,41.76,36.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vm.v3-heavy,USA,,8,32,240,NVMe,3,1000,41.76,36.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vm.v3-heavy,United States,,8,32,240,NVMe,3,1000,41.76,36.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vm.v3-heavy,United Kingdom,,8,32,240,NVMe,3,1000,41.76,36.43,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 Selectel,HighFreq 1C-8G-240G,Russia,Moscow; Saint Petersburg,1,8,240,NVMe,3,3000,41.96,3540.94,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Firstbyte,Business MSK-KVM-SAS-3,Russia,Moscow,4,6,80,SAS,6,200,42.64,3599,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-business/,2026-08-30
@@ -1080,10 +1080,10 @@ Selectel,Standard 2C-8G-64G,Russia,Moscow; Saint Petersburg,2,8,64,NVMe,3,3000,4
 Zomro,Premium Prime,Germany,,6,15,100,,6,1000,43.50,37.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Prime,Netherlands,,6,15,100,,6,1000,43.50,37.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Prime,Poland,,6,15,100,,6,1000,43.50,37.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
-Zomro,Premium Prime,USA,,6,15,100,,6,1000,43.50,37.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
+Zomro,Premium Prime,United States,,6,15,100,,6,1000,43.50,37.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Cherry Servers,Cloud VPS 6,Lithuania,Siauliai,6,6,100,SSD,5,1000,44.71,39,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-6-6gb-100s-shared?region=lt-siauliai&billing=3&currency=EUR,2026-08-30
 Cherry Servers,Cloud VPS 6,Netherlands,Amsterdam,6,6,100,SSD,5,1000,44.71,39,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-6-6gb-100s-shared?region=nl-amsterdam&billing=3&currency=EUR,2026-08-30
-Cherry Servers,Cloud VPS 6,USA,Chicago,6,6,100,SSD,5,1000,44.71,39,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-6-6gb-100s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
+Cherry Servers,Cloud VPS 6,United States,Chicago,6,6,100,SSD,5,1000,44.71,39,EUR,Yes,No,https://www.cherryservers.com/pricing/virtual-servers/b1-6-6gb-100s-shared?region=us-chicago&billing=3&currency=EUR,2026-08-30
 WAICORE,ISP EP3 · ispmanager Lite,Germany,Frankfurt,4,8,120,,,2500,45.61,3849,RUB,,,https://waicore.com/prices?tab=ispmanager,2026-08-30
 Spacecore,DE U50,Germany,,8,16,200,NVMe,20,5000,45.74,39.9,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 Spacecore,NL U50,Netherlands,,8,16,200,NVMe,20,5000,45.74,39.9,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
@@ -1091,11 +1091,11 @@ netcup,RS 4000 G12,Austria,Vienna,12,32,1000,NVMe,Unlimited,2500,45.76,39.92,EUR
 netcup,RS 4000 G12,Germany,Nuremberg,12,32,1000,NVMe,Unlimited,2500,45.76,39.92,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,RS 4000 G12,Netherlands,Amsterdam,12,32,1000,NVMe,Unlimited,2500,45.76,39.92,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,RS 4000 G12,Singapore,Singapore,12,32,1000,NVMe,Unlimited,2500,45.76,39.92,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
-netcup,RS 4000 G12,USA,Manassas,12,32,1000,NVMe,Unlimited,2500,45.76,39.92,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
+netcup,RS 4000 G12,United States,Manassas,12,32,1000,NVMe,Unlimited,2500,45.76,39.92,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,VPS 8000 ARM G11,Austria,Vienna,18,64,2048,NVMe,Unlimited,2500,45.83,39.98,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 8000 ARM G11,Germany,Nuremberg,18,64,2048,NVMe,Unlimited,2500,45.83,39.98,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 netcup,VPS 8000 ARM G11,Netherlands,Amsterdam,18,64,2048,NVMe,Unlimited,2500,45.83,39.98,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
-netcup,VPS 8000 ARM G11,USA,Manassas,18,64,2048,NVMe,Unlimited,2500,45.83,39.98,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
+netcup,VPS 8000 ARM G11,United States,Manassas,18,64,2048,NVMe,Unlimited,2500,45.83,39.98,EUR,No,No,https://www.netcup.com/en/server/arm-server,2026-08-30
 MevSpace,GP-32,Poland,,8,32,500,SSD,Unlimited,1000,45.84,39.99,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
 Aeza,NAS-4,Russia,Moscow,4,4,4096,HDD,Unlimited,10000,45.85,40,EUR,Yes,Yes,https://aeza.net/ru/storage-vps,2026-08-30
 HostingVDS,MEMORY-40G,Russia,Moscow,10,40,220,NVMe,14,10000,46.07,40.19,EUR,Yes,Yes,https://my.hosting-vds.com/order/memory-vds-kvm-nvme/18,2026-08-30
@@ -1149,28 +1149,28 @@ Vultr,High Performance Intel 4C-8G,Spain,Madrid,4,8,180,,6,,48.00,48,USD,No,No,h
 Vultr,High Frequency 3C-8G,Sweden,Stockholm,3,8,256,,4,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 4C-8G,Sweden,Stockholm,4,8,180,,6,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 4C-8G,Sweden,Stockholm,4,8,180,,6,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 3C-8G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,3,8,256,,4,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance AMD 4C-8G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,4,8,180,,6,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance Intel 4C-8G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,4,8,180,,6,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 3C-8G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,3,8,256,,4,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance AMD 4C-8G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,4,8,180,,6,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance Intel 4C-8G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,4,8,180,,6,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 3C-8G,United Kingdom,London; Manchester,3,8,256,,4,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 4C-8G,United Kingdom,London; Manchester,4,8,180,,6,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 4C-8G,United Kingdom,London; Manchester,4,8,180,,6,,48.00,48,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 HOSTKEY,vds.v1-max,Germany,,4,32,1920,SSD,3,1000,48.14,42,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.v1-max,Netherlands,,4,32,1920,SSD,3,1000,48.14,42,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 TimeWEB,NL-80,Netherlands,Amsterdam,4,8,80,NVMe,,1000,48.22,4070,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nl,2026-08-30
-SmartApe,NVMe X16 · 160 GB,Czech Republic,,12,16,160,NVMe,Unlimited,200,48.70,4110,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X16 · 160 GB,Czechia,,12,16,160,NVMe,Unlimited,200,48.70,4110,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X16 · 160 GB,Israel,,12,16,160,NVMe,Unlimited,200,48.70,4110,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X16 · 160 GB,Russia,Moscow,12,16,160,NVMe,Unlimited,200,48.70,4110,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 MevSpace,HC-4-8,Poland,,4,8,200,SSD,Unlimited,500,49.18,42.9,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
-DataCheap,VPS Ultimate NVMe,Czech Republic,,16,16,240,NVMe,,,49.78,4201.05,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
+DataCheap,VPS Ultimate NVMe,Czechia,,16,16,240,NVMe,,,49.78,4201.05,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
 DataCheap,VPS Ultimate NVMe,Netherlands,,16,16,240,NVMe,,,49.78,4201.05,RUB,No,Yes,https://datacheap.ru/services/arenda-vps-vds-serverov/,2026-08-30
-SmartApe,NVMe X4 · 320 GB,Czech Republic,,6,4,320,NVMe,Unlimited,200,50.06,4225,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X4 · 320 GB,Czechia,,6,4,320,NVMe,Unlimited,200,50.06,4225,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X4 · 320 GB,Israel,,6,4,320,NVMe,Unlimited,200,50.06,4225,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X4 · 320 GB,Russia,Moscow,6,4,320,NVMe,Unlimited,200,50.06,4225,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 TimeWEB,KZ-40,Kazakhstan,Almaty,2,2,40,NVMe,,100,50.12,4230,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=kz,2026-08-30
 Zomro,Basic Pro,Germany,,8,20,140,,8,,50.38,43.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Zomro,Basic Pro,Netherlands,,8,20,140,,8,,50.38,43.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
-Zomro,Basic Pro,USA,,8,20,140,,8,,50.38,43.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
+Zomro,Basic Pro,United States,,8,20,140,,8,,50.38,43.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 HostingVDS,HVDS-32G-EU,Bulgaria,Sofia,12,32,250,NVMe,16,1000,50.77,44.29,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
 HostingVDS,HVDS-32G-EU,Finland,Helsinki,12,32,250,NVMe,16,1000,50.77,44.29,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
 HostingVDS,HVDS-32G-EU,Germany,Frankfurt,12,32,250,NVMe,16,1000,50.77,44.29,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
@@ -1194,16 +1194,16 @@ netcup,VPS 8000 G12,Austria,Vienna,16,64,2048,NVMe,Unlimited,2500,54.97,47.95,EU
 netcup,VPS 8000 G12,Germany,Nuremberg,16,64,2048,NVMe,Unlimited,2500,54.97,47.95,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 8000 G12,Netherlands,Amsterdam,16,64,2048,NVMe,Unlimited,2500,54.97,47.95,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 netcup,VPS 8000 G12,Singapore,Singapore,16,64,2048,NVMe,Unlimited,2500,54.97,47.95,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
-netcup,VPS 8000 G12,USA,Manassas,16,64,2048,NVMe,Unlimited,2500,54.97,47.95,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
+netcup,VPS 8000 G12,United States,Manassas,16,64,2048,NVMe,Unlimited,2500,54.97,47.95,EUR,No,No,https://www.netcup.com/en/server/vps,2026-08-30
 Aeza,LND-3,United Kingdom,London,4,8,120,,Unlimited,1000,55.88,48.75,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
 Zomro,Cheap Werk,Netherlands,,6,42,240,,6,,56.11,48.95,EUR,Yes,Yes,https://zomro.com/cheap-vps,2026-08-30
-SmartApe,NVMe X8 · 320 GB,Czech Republic,,8,8,320,NVMe,Unlimited,200,57.11,4820,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X8 · 320 GB,Czechia,,8,8,320,NVMe,Unlimited,200,57.11,4820,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X8 · 320 GB,Israel,,8,8,320,NVMe,Unlimited,200,57.11,4820,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X8 · 320 GB,Russia,Moscow,8,8,320,NVMe,Unlimited,200,57.11,4820,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 Zomro,Premium Platinum,Germany,,8,20,140,,8,1000,57.26,49.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Platinum,Netherlands,,8,20,140,,8,1000,57.26,49.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Platinum,Poland,,8,20,140,,8,1000,57.26,49.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
-Zomro,Premium Platinum,USA,,8,20,140,,8,1000,57.26,49.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
+Zomro,Premium Platinum,United States,,8,20,140,,8,1000,57.26,49.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 DoubleServers,VPS large,Germany,,8,16,100,NVMe,,,57.32,50,EUR,Yes,Yes,https://doubleservers.com/,2026-08-30
 Beget,High Frequency 4-8-90,Russia,Saint Petersburg,4,8,90,NVMe,,1000,57.94,4890,RUB,No,Yes,https://beget.com/ru/vps,2026-08-30
 HOSTKEY,vds.v1-storage-8,Netherlands,,4,32,8000,HDD,3,1000,58.46,51,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -1220,17 +1220,17 @@ HOSTKEY,vds.ryzen-16,Poland,,4,16,200,NVMe,3,1000,62.93,54.9,EUR,Yes,No,https://
 HOSTKEY,vds.ryzen-16,Spain,,4,16,200,NVMe,3,1000,62.93,54.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-16,Switzerland,,4,16,200,NVMe,3,1000,62.93,54.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-16,Turkey,,4,16,200,NVMe,3,1000,62.93,54.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vds.ryzen-16,USA,,4,16,200,NVMe,3,1000,62.93,54.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vds.ryzen-16,United States,,4,16,200,NVMe,3,1000,62.93,54.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-16,United Kingdom,,4,16,200,NVMe,3,1000,62.93,54.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HostingVDS,Hi-CPU-24G,Russia,Moscow,8,24,250,NVMe,16,10000,63.05,55,EUR,Yes,Yes,https://my.hosting-vds.com/order/performance-vds-amd-epyc/34,2026-08-30
 Spacecore,DE U60,Germany,,10,24,250,NVMe,20,5000,63.05,55,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 Spacecore,NL U60,Netherlands,,10,24,250,NVMe,20,5000,63.05,55,EUR,Yes,Yes,https://spacecore.pro/en/virtual-servers/,2026-08-30
 TimeWEB,Dedic High-40,Russia,Moscow,2,8,40,NVMe,,200,63.98,5400,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
-TimeWEB,US-80,USA,New York,4,8,80,NVMe,,1000,64.69,5460,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
+TimeWEB,US-80,United States,New York,4,8,80,NVMe,,1000,64.69,5460,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
 Beget,Standard 8-16-220,Russia,Saint Petersburg,8,16,220,NVMe,,1000,65.05,5490,RUB,No,Yes,https://beget.com/ru/vps,2026-08-30
 TimeWEB,High-5,Russia,Saint Petersburg,4,8,80,NVMe,,200,66.23,5590,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=ru,2026-08-30
 TimeWEB,KZ-50,Kazakhstan,Almaty,2,4,50,NVMe,,100,66.59,5620,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=kz,2026-08-30
-SmartApe,NVMe X16 · 320 GB,Czech Republic,,12,16,320,NVMe,Unlimited,200,67.66,5710,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X16 · 320 GB,Czechia,,12,16,320,NVMe,Unlimited,200,67.66,5710,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X16 · 320 GB,Israel,,12,16,320,NVMe,Unlimited,200,67.66,5710,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X16 · 320 GB,Russia,Moscow,12,16,320,NVMe,Unlimited,200,67.66,5710,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 TimeWEB,DE-160,Germany,Frankfurt,8,16,160,NVMe,,200,67.78,5720,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=de,2026-08-30
@@ -1273,8 +1273,8 @@ Vultr,High Performance AMD 4C-12G,Spain,Madrid,4,12,260,,7,,72.00,72,USD,No,No,h
 Vultr,High Performance Intel 4C-12G,Spain,Madrid,4,12,260,,7,,72.00,72,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 4C-12G,Sweden,Stockholm,4,12,260,,7,,72.00,72,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 4C-12G,Sweden,Stockholm,4,12,260,,7,,72.00,72,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance AMD 4C-12G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,4,12,260,,7,,72.00,72,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance Intel 4C-12G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,4,12,260,,7,,72.00,72,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance AMD 4C-12G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,4,12,260,,7,,72.00,72,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance Intel 4C-12G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,4,12,260,,7,,72.00,72,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 4C-12G,United Kingdom,London; Manchester,4,12,260,,7,,72.00,72,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 4C-12G,United Kingdom,London; Manchester,4,12,260,,7,,72.00,72,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 HostingVDS,HVDS-48G-EU,Bulgaria,Sofia,16,48,380,NVMe,22,1000,72.09,62.89,EUR,Yes,Yes,https://my.hosting-vds.com/order/vds-kvm-ssd-eu/50,2026-08-30
@@ -1287,7 +1287,7 @@ HostingVDS,HVDS-48G-EU,Sweden,Stockholm,16,48,380,NVMe,22,1000,72.09,62.89,EUR,Y
 Zomro,Basic Max,Germany,,12,30,210,,12,,73.31,63.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Zomro,Basic Max,Netherlands,,12,30,210,,12,,73.31,63.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Zomro,Storage Vim,Netherlands,,4,20,1000,,4,,73.31,63.95,EUR,Yes,Yes,https://zomro.com/big_vds,2026-08-30
-Zomro,Basic Max,USA,,12,30,210,,12,,73.31,63.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
+Zomro,Basic Max,United States,,12,30,210,,12,,73.31,63.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 TimeWEB,NL-100,Netherlands,Amsterdam,8,12,100,NVMe,,1000,74.05,6250,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nl,2026-08-30
 Zomro,Cheap Meister,Netherlands,,8,56,320,,8,,74.45,64.95,EUR,Yes,Yes,https://zomro.com/cheap-vps,2026-08-30
 WAICORE,EP4,Germany,Frankfurt,8,16,240,,50,2500,75.83,6400,RUB,,,https://waicore.com/prices?tab=virtual,2026-08-30
@@ -1320,7 +1320,7 @@ Vultr,Cloud Compute 6C-16G,South Africa,Johannesburg,6,16,320,SSD,5,,80.00,80,US
 Vultr,Cloud Compute 6C-16G,South Korea,Seoul,6,16,320,SSD,5,,80.00,80,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 6C-16G,Spain,Madrid,6,16,320,SSD,5,,80.00,80,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 6C-16G,Sweden,Stockholm,6,16,320,SSD,5,,80.00,80,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,Cloud Compute 6C-16G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,6,16,320,SSD,5,,80.00,80,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 6C-16G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,6,16,320,SSD,5,,80.00,80,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 6C-16G,United Kingdom,London; Manchester,6,16,320,SSD,5,,80.00,80,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 HostingVDS,Hi-CPU-32G,Russia,Moscow,10,32,340,NVMe,20,10000,80.24,70,EUR,Yes,Yes,https://my.hosting-vds.com/order/performance-vds-amd-epyc/34,2026-08-30
 Firstbyte,Business MSK-KVM-SAS-5,Russia,Moscow,8,8,200,SAS,10,200,80.56,6799,RUB,Yes,Yes,https://firstbyte.ru/vps-vds/kvm-business/,2026-08-30
@@ -1328,8 +1328,8 @@ netcup,RS 8000 G12,Austria,Vienna,16,64,2000,NVMe,Unlimited,2500,81.80,71.36,EUR
 netcup,RS 8000 G12,Germany,Nuremberg,16,64,2000,NVMe,Unlimited,2500,81.80,71.36,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,RS 8000 G12,Netherlands,Amsterdam,16,64,2000,NVMe,Unlimited,2500,81.80,71.36,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
 netcup,RS 8000 G12,Singapore,Singapore,16,64,2000,NVMe,Unlimited,2500,81.80,71.36,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
-netcup,RS 8000 G12,USA,Manassas,16,64,2000,NVMe,Unlimited,2500,81.80,71.36,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
-SmartApe,NVMe X32 · 320 GB,Czech Republic,,16,32,320,NVMe,Unlimited,200,82.76,6985,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+netcup,RS 8000 G12,United States,Manassas,16,64,2000,NVMe,Unlimited,2500,81.80,71.36,EUR,No,No,https://www.netcup.com/en/server/root-server,2026-08-30
+SmartApe,NVMe X32 · 320 GB,Czechia,,16,32,320,NVMe,Unlimited,200,82.76,6985,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X32 · 320 GB,Israel,,16,32,320,NVMe,Unlimited,200,82.76,6985,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X32 · 320 GB,Russia,Moscow,16,32,320,NVMe,Unlimited,200,82.76,6985,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 WAICORE,ISP EP4 · ispmanager Lite,Germany,Frankfurt,8,16,240,,,2500,83.52,7049,RUB,,,https://waicore.com/prices?tab=ispmanager,2026-08-30
@@ -1338,13 +1338,13 @@ Firstbyte,Business MSK-KVM-SSD-5,Russia,Moscow,8,8,120,SSD,10,200,85.30,7199,RUB
 Zomro,Premium Enterprise,Germany,,12,30,210,,12,1000,85.92,74.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Enterprise,Netherlands,,12,30,210,,12,1000,85.92,74.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Enterprise,Poland,,12,30,210,,12,1000,85.92,74.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
-Zomro,Premium Enterprise,USA,,12,30,210,,12,1000,85.92,74.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
+Zomro,Premium Enterprise,United States,,12,30,210,,12,1000,85.92,74.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 MevSpace,GP-64,Poland,,16,64,500,SSD,Unlimited,1000,85.96,74.99,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
 HostingVDS,Hi-CPU-48G,Russia,Moscow,12,48,380,NVMe,30,10000,87.12,76,EUR,Yes,Yes,https://my.hosting-vds.com/order/performance-vds-amd-epyc/34,2026-08-30
 Macloud,Hi-CPU 8,Russia,Moscow,8,16,320,NVMe,64,1000,91.00,7680,RUB,Yes,Yes,https://macloud.ru/,2026-08-30
 Aeza,NAS-8,Russia,Moscow,8,8,8192,HDD,Unlimited,10000,91.70,80,EUR,Yes,Yes,https://aeza.net/ru/storage-vps,2026-08-30
 TimeWEB,NL-160,Netherlands,Amsterdam,8,16,160,NVMe,,1000,93.96,7930,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nl,2026-08-30
-SmartApe,NVMe X8 · 640 GB,Czech Republic,,8,8,640,NVMe,Unlimited,200,95.03,8020,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X8 · 640 GB,Czechia,,8,8,640,NVMe,Unlimited,200,95.03,8020,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X8 · 640 GB,Israel,,8,8,640,NVMe,Unlimited,200,95.03,8020,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X8 · 640 GB,Russia,Moscow,8,8,640,NVMe,Unlimited,200,95.03,8020,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 Vultr,High Frequency 4C-16G,Australia,Sydney; Melbourne,4,16,384,,5,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -1393,15 +1393,15 @@ Vultr,High Performance Intel 8C-16G,Spain,Madrid,8,16,350,,8,,96.00,96,USD,No,No
 Vultr,High Frequency 4C-16G,Sweden,Stockholm,4,16,384,,5,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 8C-16G,Sweden,Stockholm,8,16,350,,8,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 8C-16G,Sweden,Stockholm,8,16,350,,8,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 4C-16G,USA,New Jersey; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,4,16,384,,5,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance AMD 8C-16G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Silicon Valley; Miami,8,16,350,,8,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance Intel 8C-16G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,8,16,350,,8,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 4C-16G,United States,New Jersey; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,4,16,384,,5,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance AMD 8C-16G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Silicon Valley; Miami,8,16,350,,8,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance Intel 8C-16G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,8,16,350,,8,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 4C-16G,United Kingdom,London; Manchester,4,16,384,,5,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 8C-16G,United Kingdom,London; Manchester,8,16,350,,8,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 8C-16G,United Kingdom,London; Manchester,8,16,350,,8,,96.00,96,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 TimeWEB,Dedic CPU-100 MSK,Russia,Moscow; Saint Petersburg,4,16,100,NVMe,,1000,97.16,8200,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
 HOSTKEY,vds.v1-storage-36,Netherlands,,4,32,36000,HDD,3,1000,99.73,87,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-TimeWEB,US-100,USA,New York,8,12,100,NVMe,,1000,100.00,8440,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
+TimeWEB,US-100,United States,New York,8,12,100,NVMe,,1000,100.00,8440,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
 HOSTKEY,vds.ryzen-32,Finland,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-32,France,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-32,Germany,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
@@ -1411,14 +1411,14 @@ HOSTKEY,vds.ryzen-32,Poland,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https:/
 HOSTKEY,vds.ryzen-32,Spain,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-32,Switzerland,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-32,Turkey,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
-HOSTKEY,vds.ryzen-32,USA,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
+HOSTKEY,vds.ryzen-32,United States,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 HOSTKEY,vds.ryzen-32,United Kingdom,,8,32,400,NVMe,3,1000,103.05,89.9,EUR,Yes,No,https://hostkey.com/vps/,2026-09-24
 Aeza,RX32-4,Russia,Moscow,8,16,240,,Unlimited,25000,103.06,89.91,EUR,Yes,Yes,https://aeza.net/ru/enterprise,2026-08-30
 Zomro,Basic Vertex,Germany,,16,40,280,,16,,103.11,89.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Zomro,Basic Vertex,Netherlands,,16,40,280,,16,,103.11,89.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
-Zomro,Basic Vertex,USA,,16,40,280,,16,,103.11,89.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
+Zomro,Basic Vertex,United States,,16,40,280,,16,,103.11,89.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 TimeWEB,KZ-80,Kazakhstan,Almaty,4,8,80,NVMe,,100,103.20,8710,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=kz,2026-08-30
-SmartApe,NVMe X16 · 640 GB,Czech Republic,,12,16,640,NVMe,Unlimited,200,105.57,8910,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X16 · 640 GB,Czechia,,12,16,640,NVMe,Unlimited,200,105.57,8910,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X16 · 640 GB,Israel,,12,16,640,NVMe,Unlimited,200,105.57,8910,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X16 · 640 GB,Russia,Moscow,12,16,640,NVMe,Unlimited,200,105.57,8910,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 MevSpace,HC-4-16,Poland,,4,16,400,SSD,Unlimited,1000,106.49,92.9,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
@@ -1437,20 +1437,20 @@ Aeza,LND-4,United Kingdom,London,8,16,240,,Unlimited,1000,111.74,97.48,EUR,Yes,Y
 Zomro,Premium Ultimate,Germany,,16,40,280,,16,1000,113.43,98.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Ultimate,Netherlands,,16,40,280,,16,1000,113.43,98.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Ultimate,Poland,,16,40,280,,16,1000,113.43,98.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
-Zomro,Premium Ultimate,USA,,16,40,280,,16,1000,113.43,98.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
+Zomro,Premium Ultimate,United States,,16,40,280,,16,1000,113.43,98.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 TimeWEB,High-6,Russia,Saint Petersburg,8,12,100,NVMe,,200,118.37,9990,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=ru,2026-08-30
 VDSina,Hi-CPU 2,Netherlands,Amsterdam,8,16,320,NVMe,64,10000,120.00,120,USD,Yes,Yes,https://vdsina.ru/pricing/standard,2026-08-30
 Vultr,Cloud Compute 6C-16G,Brazil,Sao Paulo,6,16,320,SSD,5,,120.00,120,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-SmartApe,NVMe X32 · 640 GB,Czech Republic,,16,32,640,NVMe,Unlimited,200,120.68,10185,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X32 · 640 GB,Czechia,,16,32,640,NVMe,Unlimited,200,120.68,10185,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X32 · 640 GB,Israel,,16,32,640,NVMe,Unlimited,200,120.68,10185,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X32 · 640 GB,Russia,Moscow,16,32,640,NVMe,Unlimited,200,120.68,10185,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 TimeWEB,High MSK 8/12/100,Russia,Moscow,8,12,100,NVMe,,1000,120.98,10210,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
 TimeWEB,Dedic High-60,Russia,Moscow,4,16,60,NVMe,,200,122.04,10300,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
-TimeWEB,US-160,USA,New York,8,16,160,NVMe,,1000,126.90,10710,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
+TimeWEB,US-160,United States,New York,8,16,160,NVMe,,1000,126.90,10710,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=nyc,2026-08-30
 Selectel,Standard 4C-32G-128G,Russia,Moscow; Saint Petersburg,4,32,128,NVMe,3,3000,136.21,11495.67,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Aeza,NAS-12,Russia,Moscow,12,12,12288,HDD,Unlimited,10000,137.56,120,EUR,Yes,Yes,https://aeza.net/ru/storage-vps,2026-08-30
 TimeWEB,KZ-100,Kazakhstan,Almaty,8,12,100,NVMe,,100,139.70,11790,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=kz,2026-08-30
-SmartApe,NVMe X64 · 640 GB,Czech Republic,,24,64,640,NVMe,Unlimited,200,140.65,11870,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X64 · 640 GB,Czechia,,24,64,640,NVMe,Unlimited,200,140.65,11870,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X64 · 640 GB,Israel,,24,64,640,NVMe,Unlimited,200,140.65,11870,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X64 · 640 GB,Russia,Moscow,24,64,640,NVMe,Unlimited,200,140.65,11870,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 TimeWEB,High-7,Russia,Saint Petersburg,8,16,160,NVMe,,200,141.18,11915,RUB,No,Yes,https://timeweb.cloud/services/vds-vps?location=ru,2026-08-30
@@ -1504,9 +1504,9 @@ Vultr,High Performance Intel 12C-24G,Spain,Madrid,12,24,500,,12,,144.00,144,USD,
 Vultr,High Frequency 6C-24G,Sweden,Stockholm,6,24,448,,6,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 12C-24G,Sweden,Stockholm,12,24,500,,12,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 12C-24G,Sweden,Stockholm,12,24,500,,12,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 6C-24G,USA,New Jersey; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,6,24,448,,6,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance AMD 12C-24G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Silicon Valley; Miami,12,24,500,,12,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Performance Intel 12C-24G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,12,24,500,,12,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 6C-24G,United States,New Jersey; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,6,24,448,,6,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance AMD 12C-24G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Silicon Valley; Miami,12,24,500,,12,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Performance Intel 12C-24G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami; Honolulu,12,24,500,,12,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 6C-24G,United Kingdom,London; Manchester,6,24,448,,6,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance AMD 12C-24G,United Kingdom,London; Manchester,12,24,500,,12,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 12C-24G,United Kingdom,London; Manchester,12,24,500,,12,,144.00,144,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
@@ -1515,7 +1515,7 @@ WAICORE,EP5,Germany,Frankfurt,16,32,480,,50,2500,151.66,12800,RUB,,,https://waic
 Selectel,HighFreq 8C-16G-240G,Russia,Moscow; Saint Petersburg,8,16,240,NVMe,3,3000,153.04,12916.22,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Zomro,Basic Pulse,Germany,,24,60,420,,24,,153.55,133.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Zomro,Basic Pulse,Netherlands,,24,60,420,,24,,153.55,133.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
-Zomro,Basic Pulse,USA,,24,60,420,,24,,153.55,133.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
+Zomro,Basic Pulse,United States,,24,60,420,,24,,153.55,133.95,EUR,Yes,Yes,https://zomro.com/vps/basic,2026-08-30
 Selectel,Standard 6C-32G-256G,Russia,Moscow; Saint Petersburg,6,32,256,NVMe,3,3000,153.63,12966.05,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Aeza,VIE-5,Austria,Vienna,16,32,480,,Unlimited,1000,155.58,135.72,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
 Aeza,HEL-5,Finland,Helsinki,16,32,480,,Unlimited,1000,155.58,135.72,EUR,Yes,Yes,https://aeza.net/ru/virtual-servers,2026-08-30
@@ -1540,20 +1540,20 @@ Vultr,Cloud Compute 8C-32G,South Africa,Johannesburg,8,32,640,SSD,6,,160.00,160,
 Vultr,Cloud Compute 8C-32G,South Korea,Seoul,8,32,640,SSD,6,,160.00,160,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 8C-32G,Spain,Madrid,8,32,640,SSD,6,,160.00,160,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 8C-32G,Sweden,Stockholm,8,32,640,SSD,6,,160.00,160,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,Cloud Compute 8C-32G,USA,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,8,32,640,SSD,6,,160.00,160,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 8C-32G,United States,New Jersey; Chicago; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,8,32,640,SSD,6,,160.00,160,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 8C-32G,United Kingdom,London; Manchester,8,32,640,SSD,6,,160.00,160,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Selectel,HighFreq 4C-32G-480G,Russia,Moscow; Saint Petersburg,4,32,480,NVMe,3,3000,167.82,14163.77,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Zomro,Premium Supreme,Germany,,24,60,420,,24,1000,168.45,146.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Supreme,Netherlands,,24,60,420,,24,1000,168.45,146.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Zomro,Premium Supreme,Poland,,24,60,420,,24,1000,168.45,146.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
-Zomro,Premium Supreme,USA,,24,60,420,,24,1000,168.45,146.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
+Zomro,Premium Supreme,United States,,24,60,420,,24,1000,168.45,146.95,EUR,Yes,Yes,https://zomro.com/vps,2026-08-30
 Selectel,Standard 8C-32G-384G,Russia,Moscow; Saint Petersburg,8,32,384,NVMe,3,3000,171.05,14436.42,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 MevSpace,HC-12-24,Poland,,12,24,500,SSD,Unlimited,1000,171.83,149.9,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
 MevSpace,GP-128,Poland,,32,128,500,SSD,Unlimited,1000,171.93,149.99,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
 TimeWEB,High MSK 8/16/260,Russia,Moscow,8,16,260,NVMe,,1000,177.02,14940,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
 Selectel,Standard 12C-24G-256G,Russia,Moscow; Saint Petersburg,12,24,256,NVMe,3,3000,180.56,15238.45,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 TimeWEB,Dedic CPU-120 MSK,Russia,Moscow; Saint Petersburg,8,32,120,NVMe,,1000,180.58,15240,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
-SmartApe,NVMe X16 · 1280 GB,Czech Republic,,12,16,1280,NVMe,Unlimited,200,181.40,15310,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X16 · 1280 GB,Czechia,,12,16,1280,NVMe,Unlimited,200,181.40,15310,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X16 · 1280 GB,Israel,,12,16,1280,NVMe,Unlimited,200,181.40,15310,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X16 · 1280 GB,Russia,Moscow,12,16,1280,NVMe,Unlimited,200,181.40,15310,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 Macloud,Hi-CPU 16,Russia,Moscow,16,32,640,NVMe,64,1000,182.00,15360,RUB,Yes,Yes,https://macloud.ru/,2026-08-30
@@ -1573,16 +1573,16 @@ Vultr,High Frequency 8C-32G,Singapore,Singapore,8,32,512,,7,,192.00,192,USD,No,N
 Vultr,High Frequency 8C-32G,South Korea,Seoul,8,32,512,,7,,192.00,192,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 8C-32G,Spain,Madrid,8,32,512,,7,,192.00,192,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 8C-32G,Sweden,Stockholm,8,32,512,,7,,192.00,192,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 8C-32G,USA,New Jersey; Seattle; Los Angeles; Silicon Valley; Miami,8,32,512,,7,,192.00,192,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 8C-32G,United States,New Jersey; Seattle; Los Angeles; Silicon Valley; Miami,8,32,512,,7,,192.00,192,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 8C-32G,United Kingdom,London; Manchester,8,32,512,,7,,192.00,192,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-SmartApe,NVMe X32 · 1280 GB,Czech Republic,,16,32,1280,NVMe,Unlimited,200,196.51,16585,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X32 · 1280 GB,Czechia,,16,32,1280,NVMe,Unlimited,200,196.51,16585,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X32 · 1280 GB,Israel,,16,32,1280,NVMe,Unlimited,200,196.51,16585,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X32 · 1280 GB,Russia,Moscow,16,32,1280,NVMe,Unlimited,200,196.51,16585,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 Zomro,Storage Nex,Netherlands,,12,60,3000,,12,,212.01,184.95,EUR,Yes,Yes,https://zomro.com/big_vds,2026-08-30
 Selectel,HighFreq 8C-32G-640G,Russia,Moscow; Saint Petersburg,8,32,640,NVMe,3,3000,213.91,18053.33,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Vultr,High Performance AMD 12C-24G,Brazil,Sao Paulo,12,24,500,,12,,216.00,216,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Performance Intel 12C-24G,Brazil,Sao Paulo,12,24,500,,12,,216.00,216,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-SmartApe,NVMe X64 · 1280 GB,Czech Republic,,24,64,1280,NVMe,Unlimited,200,216.48,18270,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X64 · 1280 GB,Czechia,,24,64,1280,NVMe,Unlimited,200,216.48,18270,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X64 · 1280 GB,Israel,,24,64,1280,NVMe,Unlimited,200,216.48,18270,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X64 · 1280 GB,Russia,Moscow,24,64,1280,NVMe,Unlimited,200,216.48,18270,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 MevSpace,HC-8-32,Poland,,8,32,500,SSD,Unlimited,1000,221.12,192.9,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
@@ -1605,7 +1605,7 @@ Vultr,High Frequency 12C-48G,Singapore,Singapore,12,48,768,,8,,256.00,256,USD,No
 Vultr,High Frequency 12C-48G,South Korea,Seoul,12,48,768,,8,,256.00,256,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 12C-48G,Spain,Madrid,12,48,768,,8,,256.00,256,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 12C-48G,Sweden,Stockholm,12,48,768,,8,,256.00,256,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 12C-48G,USA,New Jersey; Seattle; Silicon Valley; Miami,12,48,768,,8,,256.00,256,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 12C-48G,United States,New Jersey; Seattle; Silicon Valley; Miami,12,48,768,,8,,256.00,256,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 12C-48G,United Kingdom,London; Manchester,12,48,768,,8,,256.00,256,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Selectel,Standard 12C-48G-512G,Russia,Moscow; Saint Petersburg,12,48,512,NVMe,3,3000,256.58,21654.64,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Zomro,Storage Fort,Netherlands,,16,80,4000,,16,,283.08,246.95,EUR,Yes,Yes,https://zomro.com/big_vds,2026-08-30
@@ -1638,20 +1638,20 @@ Vultr,Cloud Compute 16C-64G,Spain,Madrid,16,64,1280,SSD,10,,320.00,320,USD,No,No
 Vultr,High Frequency 16C-58G,Spain,Madrid,16,58,1024,,9,,320.00,320,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 16C-64G,Sweden,Stockholm,16,64,1280,SSD,10,,320.00,320,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 16C-58G,Sweden,Stockholm,16,58,1024,,9,,320.00,320,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,Cloud Compute 16C-64G,USA,New Jersey; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,16,64,1280,SSD,10,,320.00,320,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,High Frequency 16C-58G,USA,Seattle; Silicon Valley,16,58,1024,,9,,320.00,320,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 16C-64G,United States,New Jersey; Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley; Miami,16,64,1280,SSD,10,,320.00,320,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,High Frequency 16C-58G,United States,Seattle; Silicon Valley,16,58,1024,,9,,320.00,320,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 16C-64G,United Kingdom,London; Manchester,16,64,1280,SSD,10,,320.00,320,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,High Frequency 16C-58G,United Kingdom,London; Manchester,16,58,1024,,9,,320.00,320,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Selectel,HighFreq 8C-64G-960G,Russia,Moscow; Saint Petersburg,8,64,960,NVMe,3,3000,335.65,28327.55,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Selectel,Standard 16C-64G-768G,Russia,Moscow; Saint Petersburg,16,64,768,NVMe,3,3000,342.11,28872.85,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 TimeWEB,Dedic CPU-140 MSK,Russia,Moscow; Saint Petersburg,16,64,140,NVMe,,1000,344.56,29080,RUB,No,Yes,https://timeweb.cloud/services/vds-vps,2026-08-30
-SmartApe,NVMe X32 · 2560 GB,Czech Republic,,16,32,2560,NVMe,Unlimited,200,348.18,29385,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X32 · 2560 GB,Czechia,,16,32,2560,NVMe,Unlimited,200,348.18,29385,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X32 · 2560 GB,Israel,,16,32,2560,NVMe,Unlimited,200,348.18,29385,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X32 · 2560 GB,Russia,Moscow,16,32,2560,NVMe,Unlimited,200,348.18,29385,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 MevSpace,HC-16-58,Poland,,16,58,1000,SSD,Unlimited,1000,355.24,309.9,EUR,Yes,No,https://mevspace.com/vps-cloud?id=general-purpose,2026-08-30
 Selectel,Standard 24C-48G-512G,Russia,Moscow; Saint Petersburg,24,48,512,NVMe,3,3000,361.11,30476.89,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Macloud,Hi-CPU 32,Russia,Moscow,32,64,1280,NVMe,64,1000,363.99,30720,RUB,Yes,Yes,https://macloud.ru/,2026-08-30
-SmartApe,NVMe X64 · 2560 GB,Czech Republic,,24,64,2560,NVMe,Unlimited,200,368.14,31070,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
+SmartApe,NVMe X64 · 2560 GB,Czechia,,24,64,2560,NVMe,Unlimited,200,368.14,31070,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X64 · 2560 GB,Israel,,24,64,2560,NVMe,Unlimited,200,368.14,31070,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 SmartApe,NVMe X64 · 2560 GB,Russia,Moscow,24,64,2560,NVMe,Unlimited,200,368.14,31070,RUB,Yes,Yes,https://www.smartape.ru/ssd-vps,2026-08-30
 Zomro,Storage Zelt,Netherlands,,24,120,6000,,24,,424.07,369.95,EUR,Yes,Yes,https://zomro.com/big_vds,2026-08-30
@@ -1676,7 +1676,7 @@ Vultr,Cloud Compute 24C-96G,South Africa,Johannesburg,24,96,1600,SSD,15,,640.00,
 Vultr,Cloud Compute 24C-96G,South Korea,Seoul,24,96,1600,SSD,15,,640.00,640,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 24C-96G,Spain,Madrid,24,96,1600,SSD,15,,640.00,640,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 24C-96G,Sweden,Stockholm,24,96,1600,SSD,15,,640.00,640,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
-Vultr,Cloud Compute 24C-96G,USA,Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley,24,96,1600,SSD,15,,640.00,640,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
+Vultr,Cloud Compute 24C-96G,United States,Dallas; Seattle; Los Angeles; Atlanta; Silicon Valley,24,96,1600,SSD,15,,640.00,640,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Vultr,Cloud Compute 24C-96G,United Kingdom,London; Manchester,24,96,1600,SSD,15,,640.00,640,USD,No,No,https://www.vultr.com/pricing/,2026-08-30
 Selectel,HighFreq 16C-128G-960G,Russia,Moscow; Saint Petersburg,16,128,960,NVMe,3,3000,671.29,56655.09,RUB,No,Yes,https://selectel.ru/prices/calculator/,2026-09-22
 Macloud,Hi-CPU 64,Russia,Moscow,64,128,2000,NVMe,64,1000,727.99,61440,RUB,Yes,Yes,https://macloud.ru/,2026-08-30
